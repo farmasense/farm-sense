@@ -1,0 +1,2782 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "market",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.91964, 6.34042 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ese Odo",
+				"wardname" : "Ese Odo",
+				"market_name" : "Kiribo Market",
+				"globalid" : "db5c279f-ca45-4dbc-9e6f-716cc4fe77b3",
+				"source" : "OSGOF",
+				"longitude" : "4.91964",
+				"latitude" : "6.34042"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.85276, 6.42275 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ilaje",
+				"wardname" : "Ilaje",
+				"market_name" : "Igbogi I Camp Market",
+				"globalid" : "cec4ce6a-dadb-4628-acb8-48c29d327acb",
+				"source" : "OSGOF",
+				"longitude" : "4.85276",
+				"latitude" : "6.42275"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.92157, 6.42685 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ese Odo",
+				"wardname" : "Ese Odo",
+				"market_name" : "Ajagba Market",
+				"globalid" : "d6c31edd-d3d6-4c7a-b3b6-437fb9a1414e",
+				"source" : "OSGOF",
+				"longitude" : "4.92157",
+				"latitude" : "6.42685"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.72558, 6.43321 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Okitipupa",
+				"wardname" : "Okitipupa",
+				"market_name" : "Ode Erinje Market",
+				"globalid" : "aafc89d7-e0e5-4604-8510-4aee1e01839a",
+				"source" : "OSGOF",
+				"longitude" : "4.72558",
+				"latitude" : "6.43321"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.89205, 6.44235 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ese Odo",
+				"wardname" : "Ese Odo",
+				"market_name" : "Sabome Market",
+				"globalid" : "d4f6240d-58ee-4c79-8d0d-f2496238215b",
+				"source" : "OSGOF",
+				"longitude" : "4.89205",
+				"latitude" : "6.44235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.12094, 6.46329 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Irele",
+				"wardname" : "Irele",
+				"market_name" : "Ode Iyansan Market",
+				"globalid" : "4d6a826e-21a0-4ac1-9e21-053729c5cc6c",
+				"source" : "OSGOF",
+				"longitude" : "5.12094",
+				"latitude" : "6.46329"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.88949, 6.47808 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Irele",
+				"wardname" : "Irele",
+				"market_name" : "Ode Omi Market",
+				"globalid" : "5a4d6ac4-0c10-4a1b-b2be-c10d94d28445",
+				"source" : "OSGOF",
+				"longitude" : "4.88949",
+				"latitude" : "6.47808"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.87122, 6.49078 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Irele",
+				"wardname" : "Irele",
+				"market_name" : "Ode-Irele Market",
+				"globalid" : "2750472a-3841-4158-a990-87513f293f2a",
+				"source" : "OSGOF",
+				"longitude" : "4.87122",
+				"latitude" : "6.49078"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7893, 6.49242 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Okitipupa",
+				"wardname" : "Okitipupa",
+				"market_name" : "Ayeka Market",
+				"globalid" : "4b4e0429-b06c-4afe-bdca-2b9b2d6d1976",
+				"source" : "OSGOF",
+				"longitude" : "4.7893",
+				"latitude" : "6.49242"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.78996, 6.49577 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Okitipupa",
+				"wardname" : "Okitipupa",
+				"market_name" : "Igbodigho Market",
+				"globalid" : "b42e8037-c0d4-46d9-b666-3098eacf0ded",
+				"source" : "OSGOF",
+				"longitude" : "4.78996",
+				"latitude" : "6.49577"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.69188, 6.50283 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Okitipupa",
+				"wardname" : "Okitipupa",
+				"market_name" : "Ikoya Town Market",
+				"globalid" : "6e88746f-a526-459a-8b42-04a79f0e77ee",
+				"source" : "OSGOF",
+				"longitude" : "4.69188",
+				"latitude" : "6.50283"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.64016, 6.52573 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Okitipupa",
+				"wardname" : "Okitipupa",
+				"market_name" : "Ilutitun Market",
+				"globalid" : "d9263581-182b-4a8b-a1e6-d06279546789",
+				"source" : "OSGOF",
+				"longitude" : "4.64016",
+				"latitude" : "6.52573"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.74822, 6.5491 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Okitipupa",
+				"wardname" : "Okitipupa",
+				"market_name" : "Farm Settlement Market",
+				"globalid" : "c757f01c-dae0-4021-8a6e-b6c88ab3afba",
+				"source" : "OSGOF",
+				"longitude" : "4.74822",
+				"latitude" : "6.5491"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.63807, 6.57508 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Okitipupa",
+				"wardname" : "Okitipupa",
+				"market_name" : "Igbotako Market",
+				"globalid" : "e9dcb49b-b2c6-40f9-aa2d-7cffb086af7d",
+				"source" : "OSGOF",
+				"longitude" : "4.63807",
+				"latitude" : "6.57508"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.05928, 6.57722 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Irele",
+				"wardname" : "Irele",
+				"market_name" : "Atoranse Central Market",
+				"globalid" : "26ab8a04-8618-42a1-92d4-105141fa0af7",
+				"source" : "OSGOF",
+				"longitude" : "5.05928",
+				"latitude" : "6.57722"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.91192, 6.65974 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Odigbo",
+				"wardname" : "Odigbo",
+				"market_name" : "Ipetu Camp Market",
+				"globalid" : "115b4ce9-148f-4d24-b5f8-d91cf9e22afc",
+				"source" : "OSGOF",
+				"longitude" : "4.91192",
+				"latitude" : "6.65974"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.52534, 6.67676 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Odigbo",
+				"wardname" : "Odigbo",
+				"market_name" : "Koseru Market",
+				"globalid" : "959abf30-353c-424d-be4e-da5622d86ea0",
+				"source" : "OSGOF",
+				"longitude" : "4.52534",
+				"latitude" : "6.67676"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.54022, 6.68614 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Odigbo",
+				"wardname" : "Odigbo",
+				"market_name" : "Ifarapanu Market",
+				"globalid" : "1a3361df-f720-4225-8132-f677bf02d314",
+				"source" : "OSGOF",
+				"longitude" : "4.54022",
+				"latitude" : "6.68614"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.50954, 6.72473 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Odigbo",
+				"wardname" : "Odigbo",
+				"market_name" : "Kajola Camp Market",
+				"globalid" : "2aa9ae44-19f1-4544-8253-d5fc96b0d09d",
+				"source" : "OSGOF",
+				"longitude" : "4.50954",
+				"latitude" : "6.72473"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.56668, 6.72555 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Odigbo",
+				"wardname" : "Odigbo",
+				"market_name" : "Mile 49 Mobolorunduro Market",
+				"globalid" : "51a13707-cad0-44e4-a58e-a6368b029f8a",
+				"source" : "OSGOF",
+				"longitude" : "4.56668",
+				"latitude" : "6.72555"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.87987, 6.75019 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Odigbo",
+				"wardname" : "Odigbo",
+				"market_name" : "Ore Market",
+				"globalid" : "8d89a716-34ef-48a9-8948-58f0f21cfbf2",
+				"source" : "OSGOF",
+				"longitude" : "4.87987",
+				"latitude" : "6.75019"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.5913, 6.78327 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ose",
+				"wardname" : "Ose",
+				"market_name" : "Okeluse Market",
+				"globalid" : "7fd3295e-cd1f-469e-82a3-221d67d4c7cf",
+				"source" : "OSGOF",
+				"longitude" : "5.5913",
+				"latitude" : "6.78327"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.87203, 6.79505 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Odigbo",
+				"wardname" : "Odigbo",
+				"market_name" : "Odigbo Market",
+				"globalid" : "46bd5c87-550e-4820-839f-17def5a267cc",
+				"source" : "OSGOF",
+				"longitude" : "4.87203",
+				"latitude" : "6.79505"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.59108, 6.82434 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Odigbo",
+				"wardname" : "Odigbo",
+				"market_name" : "Legere Market",
+				"globalid" : "d189dc20-8a15-4ebd-89a1-a4276b23b1ec",
+				"source" : "OSGOF",
+				"longitude" : "4.59108",
+				"latitude" : "6.82434"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.70854, 6.82562 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ose",
+				"wardname" : "Ose",
+				"market_name" : "Arimogija Market",
+				"globalid" : "ee02e243-8b85-435f-a943-be8a9280caa5",
+				"source" : "OSGOF",
+				"longitude" : "5.70854",
+				"latitude" : "6.82562"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.86133, 6.82861 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Odigbo",
+				"wardname" : "Odigbo",
+				"market_name" : "Omifon Market",
+				"globalid" : "4bbfef52-c951-4b5e-9fe9-6914d33229dd",
+				"source" : "OSGOF",
+				"longitude" : "4.86133",
+				"latitude" : "6.82861"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.60559, 6.84789 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ose",
+				"wardname" : "Ose",
+				"market_name" : "Ute Market",
+				"globalid" : "4f089ca5-9b4d-42b4-90a7-2403f3392ce5",
+				"source" : "OSGOF",
+				"longitude" : "5.60559",
+				"latitude" : "6.84789"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.75729, 6.86771 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ose",
+				"wardname" : "Ose",
+				"market_name" : "Imoru Market",
+				"globalid" : "abc00f1d-bad2-4cd2-b5d2-7e36218cf239",
+				"source" : "OSGOF",
+				"longitude" : "5.75729",
+				"latitude" : "6.86771"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.85419, 6.89537 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Odigbo",
+				"wardname" : "Odigbo",
+				"market_name" : "Ajue Market",
+				"globalid" : "267fba39-5846-4370-a40a-aa2ea7ab51ad",
+				"source" : "OSGOF",
+				"longitude" : "4.85419",
+				"latitude" : "6.89537"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.89739, 6.90113 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Odigbo",
+				"wardname" : "Odigbo",
+				"market_name" : "Oro Kingdom Market",
+				"globalid" : "4fd4aa21-8730-4031-94e0-0e73baa195e2",
+				"source" : "OSGOF",
+				"longitude" : "4.89739",
+				"latitude" : "6.90113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.7659, 6.92845 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ose",
+				"wardname" : "Ose",
+				"market_name" : "Ifon Market",
+				"globalid" : "c0925b5c-5004-436c-a182-60d2174a5753",
+				"source" : "OSGOF",
+				"longitude" : "5.7659",
+				"latitude" : "6.92845"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.77513, 6.93039 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ose",
+				"wardname" : "Ose",
+				"market_name" : "Okuta Market",
+				"globalid" : "a617ea15-17a5-46a6-a68c-962068ef7bfc",
+				"source" : "OSGOF",
+				"longitude" : "5.77513",
+				"latitude" : "6.93039"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.78282, 6.93807 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ose",
+				"wardname" : "Ose",
+				"market_name" : "Ikaro Market",
+				"globalid" : "bf811cf9-3137-4edd-8368-491a52373449",
+				"source" : "OSGOF",
+				"longitude" : "5.78282",
+				"latitude" : "6.93807"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7167, 6.96371 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ondo West",
+				"wardname" : "Ondo West",
+				"market_name" : "Igbindo Market",
+				"globalid" : "6b4b3b60-5fa2-4a99-9778-56cf0406de30",
+				"source" : "OSGOF",
+				"longitude" : "4.7167",
+				"latitude" : "6.96371"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.95692, 6.98944 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ondo East",
+				"wardname" : "Ondo East",
+				"market_name" : "Asanta Oja Market",
+				"globalid" : "434285ab-3ad0-4ac0-88b5-706e9d551f4f",
+				"source" : "OSGOF",
+				"longitude" : "4.95692",
+				"latitude" : "6.98944"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.71518, 7.01052 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ose",
+				"wardname" : "Ose",
+				"market_name" : "Elegbeka Village Market",
+				"globalid" : "205969ad-1ac7-4544-b5b7-82f22a90e908",
+				"source" : "OSGOF",
+				"longitude" : "5.71518",
+				"latitude" : "7.01052"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.50597, 7.08378 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Dugbere I Market",
+				"globalid" : "d63b9be9-3a02-46f0-bccd-e182d3238d23",
+				"source" : "OSGOF",
+				"longitude" : "5.50597",
+				"latitude" : "7.08378"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.53485, 7.11398 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Opoporo Camp I Market",
+				"globalid" : "a1111563-f15c-414c-9b0e-8aecb75122ae",
+				"source" : "OSGOF",
+				"longitude" : "5.53485",
+				"latitude" : "7.11398"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.97138, 7.1209 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ondo East",
+				"wardname" : "Ondo East",
+				"market_name" : "Fagbo Oja Market",
+				"globalid" : "75149061-56e3-4cc5-8a33-b74904a4be79",
+				"source" : "OSGOF",
+				"longitude" : "4.97138",
+				"latitude" : "7.1209"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.57883, 7.1249 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Amurin Village Market",
+				"globalid" : "6d7c2e71-de08-4b97-89fd-1300bd5bd1f0",
+				"source" : "OSGOF",
+				"longitude" : "5.57883",
+				"latitude" : "7.1249"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.67348, 7.13393 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Ipele Market",
+				"globalid" : "edf35961-950b-415d-a937-d97bcec3834f",
+				"source" : "OSGOF",
+				"longitude" : "5.67348",
+				"latitude" : "7.13393"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.56517, 7.13732 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Ugboagbo I Market",
+				"globalid" : "30486fa5-8156-4d66-a9b7-a4827ee7c9d1",
+				"source" : "OSGOF",
+				"longitude" : "5.56517",
+				"latitude" : "7.13732"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.69655, 7.15223 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Alao Village Market",
+				"globalid" : "3fd4484e-191c-4e5f-9657-d0ca79c73135",
+				"source" : "OSGOF",
+				"longitude" : "5.69655",
+				"latitude" : "7.15223"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.62527, 7.1683 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Ajiyoko Market",
+				"globalid" : "7696839d-5dc6-4e4f-ad21-91b33623557b",
+				"source" : "OSGOF",
+				"longitude" : "5.62527",
+				"latitude" : "7.1683"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.62518, 7.16832 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Jos Motors Village Market",
+				"globalid" : "2c8f0296-105b-416c-a6b6-76979503e6b5",
+				"source" : "OSGOF",
+				"longitude" : "5.62518",
+				"latitude" : "7.16832"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.96439, 7.16891 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ondo East",
+				"wardname" : "Ondo East",
+				"market_name" : "Bolorunduro Market",
+				"globalid" : "0b30a845-6005-4544-adc0-d5b3572e4e0d",
+				"source" : "OSGOF",
+				"longitude" : "4.96439",
+				"latitude" : "7.16891"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.61859, 7.17065 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Ayegunle Market",
+				"globalid" : "10f4cbeb-6d3a-4993-9dc2-22183b42a50a",
+				"source" : "OSGOF",
+				"longitude" : "5.61859",
+				"latitude" : "7.17065"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.61369, 7.17742 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Irowo Market",
+				"globalid" : "75c632ef-70d6-4d7f-b7ea-c54e1c446fa7",
+				"source" : "OSGOF",
+				"longitude" : "5.61369",
+				"latitude" : "7.17742"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.61351, 7.17966 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Annye Market",
+				"globalid" : "b090a77a-b45a-47d5-8680-8900c1da1b6d",
+				"source" : "OSGOF",
+				"longitude" : "5.61351",
+				"latitude" : "7.17966"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.6244, 7.18711 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Utelu I Market",
+				"globalid" : "b277d50f-72cd-4f60-b1f5-c80da84e8f0d",
+				"source" : "OSGOF",
+				"longitude" : "5.6244",
+				"latitude" : "7.18711"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.57706, 7.1899 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Anante Market",
+				"globalid" : "dd2100bb-77ed-4ead-82a5-10cbfb42f701",
+				"source" : "OSGOF",
+				"longitude" : "5.57706",
+				"latitude" : "7.1899"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.59316, 7.19305 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Ijebu-Owo Market",
+				"globalid" : "ac0f18fb-faa0-4026-824f-3a9df21f03c8",
+				"source" : "OSGOF",
+				"longitude" : "5.59316",
+				"latitude" : "7.19305"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.5837, 7.19544 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Oba'S Market",
+				"globalid" : "93307e0b-f109-4341-a47d-9e89e222c983",
+				"source" : "OSGOF",
+				"longitude" : "5.5837",
+				"latitude" : "7.19544"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.57204, 7.20251 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Sadibo Market",
+				"globalid" : "b5fd90fe-d710-47a4-b295-a2632d33922c",
+				"source" : "OSGOF",
+				"longitude" : "5.57204",
+				"latitude" : "7.20251"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.58391, 7.22106 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Isuada Market",
+				"globalid" : "4a2a552a-e611-4da3-bb0e-85d0d034b84f",
+				"source" : "OSGOF",
+				"longitude" : "5.58391",
+				"latitude" : "7.22106"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.50624, 7.24106 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Express Market",
+				"globalid" : "8250b63b-bbb2-46b0-9afb-c43f2bb81b84",
+				"source" : "OSGOF",
+				"longitude" : "5.50624",
+				"latitude" : "7.24106"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.62, 7.25633 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Upenmen Market",
+				"globalid" : "337de3b5-4e52-48b2-b283-faf62937d2d2",
+				"source" : "OSGOF",
+				"longitude" : "5.62",
+				"latitude" : "7.25633"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.3737, 7.25939 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akure North",
+				"wardname" : "Akure North",
+				"market_name" : "Ayede Ogbese Market",
+				"globalid" : "f8213d5e-0fb6-429f-a413-63263bd2eed2",
+				"source" : "OSGOF",
+				"longitude" : "5.3737",
+				"latitude" : "7.25939"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.82246, 7.26724 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ose",
+				"wardname" : "Ose",
+				"market_name" : "Owani Market",
+				"globalid" : "8d2827ad-4f07-42b2-8213-8f2f71c74d83",
+				"source" : "OSGOF",
+				"longitude" : "5.82246",
+				"latitude" : "7.26724"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.42452, 7.27331 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Uso Market",
+				"globalid" : "5fce61a2-ac1e-4ee3-bcec-47c7d554f98b",
+				"source" : "OSGOF",
+				"longitude" : "5.42452",
+				"latitude" : "7.27331"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.3058, 7.27351 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akure North",
+				"wardname" : "Akure North",
+				"market_name" : "Eleyowo Camp Market",
+				"globalid" : "eae4da59-5f5a-452a-a73a-553a3db97742",
+				"source" : "OSGOF",
+				"longitude" : "5.3058",
+				"latitude" : "7.27351"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.62587, 7.27863 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Ago Panu Village Market",
+				"globalid" : "f16396a5-c005-498a-b7d4-3277f060851a",
+				"source" : "OSGOF",
+				"longitude" : "5.62587",
+				"latitude" : "7.27863"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.84603, 7.29629 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ose",
+				"wardname" : "Ose",
+				"market_name" : "Idoani Main Market",
+				"globalid" : "5d1a419d-4ee4-40bb-a78d-a2dd49627a6d",
+				"source" : "OSGOF",
+				"longitude" : "5.84603",
+				"latitude" : "7.29629"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.89772, 7.30006 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ose",
+				"wardname" : "Ose",
+				"market_name" : "Sara Market",
+				"globalid" : "d6beb484-1060-43cc-8615-c118829dee69",
+				"source" : "OSGOF",
+				"longitude" : "5.89772",
+				"latitude" : "7.30006"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.89903, 7.30295 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ose",
+				"wardname" : "Ose",
+				"market_name" : "Market Oja Oba",
+				"globalid" : "9567f17c-cf11-43f8-b473-ec19475aec5b",
+				"source" : "OSGOF",
+				"longitude" : "5.89903",
+				"latitude" : "7.30295"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.70788, 7.30958 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South West",
+				"wardname" : "Akoko South West",
+				"market_name" : "Ugbowoye Market",
+				"globalid" : "1b4dc32e-b471-4974-afa6-e664ebf4fd96",
+				"source" : "OSGOF",
+				"longitude" : "5.70788",
+				"latitude" : "7.30958"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.67165, 7.31617 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South West",
+				"wardname" : "Akoko South West",
+				"market_name" : "Ose Oba Market",
+				"globalid" : "d4192503-f0dd-4f69-8b87-58c2c4b8bfeb",
+				"source" : "OSGOF",
+				"longitude" : "5.67165",
+				"latitude" : "7.31617"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.82763, 7.36828 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ose",
+				"wardname" : "Ose",
+				"market_name" : "Afo Market",
+				"globalid" : "fec1349e-e773-46f4-a5d5-93e76ad71007",
+				"source" : "OSGOF",
+				"longitude" : "5.82763",
+				"latitude" : "7.36828"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.95177, 7.36903 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South East",
+				"wardname" : "Akoko South East",
+				"market_name" : "Ipesi Akoko Market",
+				"globalid" : "eb560dbf-c67e-4534-afcf-7ab3e9eee039",
+				"source" : "OSGOF",
+				"longitude" : "5.95177",
+				"latitude" : "7.36903"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.72745, 7.37149 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South West",
+				"wardname" : "Akoko South West",
+				"market_name" : "Oja Oba Ulede",
+				"globalid" : "daed5aad-7648-4c78-8eb3-790da26dd395",
+				"source" : "OSGOF",
+				"longitude" : "5.72745",
+				"latitude" : "7.37149"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.7216, 7.37518 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South West",
+				"wardname" : "Akoko South West",
+				"market_name" : "Oba Akoko Market",
+				"globalid" : "3669987b-caa1-4ec9-bc8b-e41184762148",
+				"source" : "OSGOF",
+				"longitude" : "5.7216",
+				"latitude" : "7.37518"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.78046, 7.37563 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South West",
+				"wardname" : "Akoko South West",
+				"market_name" : "Ikun Akoko Market",
+				"globalid" : "00c98477-a13a-41c3-880c-fcaf95b6a3c6",
+				"source" : "OSGOF",
+				"longitude" : "5.78046",
+				"latitude" : "7.37563"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.91727, 7.38896 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South East",
+				"wardname" : "Akoko South East",
+				"market_name" : "Ifira Akoko Market",
+				"globalid" : "3b5f51d1-6f64-4e98-8e32-68b4167c26fd",
+				"source" : "OSGOF",
+				"longitude" : "5.91727",
+				"latitude" : "7.38896"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.92286, 7.40692 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South East",
+				"wardname" : "Akoko South East",
+				"market_name" : "Federal Market",
+				"globalid" : "2571b01d-f051-4ed3-a324-11b6f2bcabcd",
+				"source" : "OSGOF",
+				"longitude" : "5.92286",
+				"latitude" : "7.40692"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.86105, 7.41479 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South East",
+				"wardname" : "Akoko South East",
+				"market_name" : "Ipe Akoko Market",
+				"globalid" : "749f05ea-c3a5-4ba9-9bba-150864cc7945",
+				"source" : "OSGOF",
+				"longitude" : "5.86105",
+				"latitude" : "7.41479"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.77048, 7.4397 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South West",
+				"wardname" : "Akoko South West",
+				"market_name" : "Ebo Market Iwaro",
+				"globalid" : "8983a087-c158-476d-bda1-57ff91fcfc75",
+				"source" : "OSGOF",
+				"longitude" : "5.77048",
+				"latitude" : "7.4397"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.76441, 7.44337 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South West",
+				"wardname" : "Akoko South West",
+				"market_name" : "Iwaro Oka Market",
+				"globalid" : "ae0bbc1b-7389-49fc-927e-b71ac6107867",
+				"source" : "OSGOF",
+				"longitude" : "5.76441",
+				"latitude" : "7.44337"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.68954, 7.44676 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South West",
+				"wardname" : "Akoko South West",
+				"market_name" : "Supare Akoko Market",
+				"globalid" : "9412bd74-6f86-48aa-88c0-d4ee5a5e3178",
+				"source" : "OSGOF",
+				"longitude" : "5.68954",
+				"latitude" : "7.44676"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.96149, 7.44779 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South East",
+				"wardname" : "Akoko South East",
+				"market_name" : "Eti Ose Market",
+				"globalid" : "205f8500-ed9e-4db5-8b52-98d4d0d3a3dd",
+				"source" : "OSGOF",
+				"longitude" : "5.96149",
+				"latitude" : "7.44779"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.86397, 7.45689 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South East",
+				"wardname" : "Akoko South East",
+				"market_name" : "Epinmi Akoko Market",
+				"globalid" : "4592bc38-6e09-4b52-a7b2-e6b65015a12e",
+				"source" : "OSGOF",
+				"longitude" : "5.86397",
+				"latitude" : "7.45689"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.80326, 7.45711 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South West",
+				"wardname" : "Akoko South West",
+				"market_name" : "Oka Akoko Market",
+				"globalid" : "dd05bef5-b1d3-4580-94fc-21df6e561632",
+				"source" : "OSGOF",
+				"longitude" : "5.80326",
+				"latitude" : "7.45711"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.73595, 7.46993 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South West",
+				"wardname" : "Akoko South West",
+				"market_name" : "Akungba Akoko Market",
+				"globalid" : "26dee001-a632-4a44-a67c-d9aff121a4b8",
+				"source" : "OSGOF",
+				"longitude" : "5.73595",
+				"latitude" : "7.46993"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.74813, 7.52013 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North East",
+				"wardname" : "Akoko North East",
+				"market_name" : "Okore Market",
+				"globalid" : "f45abe0e-991f-404a-ab6b-3699d6d4b570",
+				"source" : "OSGOF",
+				"longitude" : "5.74813",
+				"latitude" : "7.52013"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.7507, 7.52273 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North East",
+				"wardname" : "Akoko North East",
+				"market_name" : "Osele Market",
+				"globalid" : "dd4350b1-db59-413e-86ce-be4e57de5d02",
+				"source" : "OSGOF",
+				"longitude" : "5.7507",
+				"latitude" : "7.52273"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.76347, 7.52416 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North East",
+				"wardname" : "Akoko North East",
+				"market_name" : "Alapata New Market",
+				"globalid" : "e91088ce-a435-4a48-ac06-40cf873d09fa",
+				"source" : "OSGOF",
+				"longitude" : "5.76347",
+				"latitude" : "7.52416"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.78342, 7.52879 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North East",
+				"wardname" : "Akoko North East",
+				"market_name" : "Ugbe Akoko Market",
+				"globalid" : "bc753709-4416-4dba-a158-84ea143f7ffb",
+				"source" : "OSGOF",
+				"longitude" : "5.78342",
+				"latitude" : "7.52879"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.76616, 7.53437 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North East",
+				"wardname" : "Akoko North East",
+				"market_name" : "Ikareakoko Market",
+				"globalid" : "5d6786ce-7724-4f8a-9e6d-213440023078",
+				"source" : "OSGOF",
+				"longitude" : "5.76616",
+				"latitude" : "7.53437"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.85232, 7.53542 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North East",
+				"wardname" : "Akoko North East",
+				"market_name" : "Iboropa Ako Market",
+				"globalid" : "d65178d0-b4fc-4d72-8a8e-516c62ab1746",
+				"source" : "OSGOF",
+				"longitude" : "5.85232",
+				"latitude" : "7.53542"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.76612, 7.56386 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North West",
+				"wardname" : "Akoko North West",
+				"market_name" : "Arigidi Akoko Market",
+				"globalid" : "c6c5e3d5-af7a-4609-b33d-2190dd8485bf",
+				"source" : "OSGOF",
+				"longitude" : "5.76612",
+				"latitude" : "7.56386"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.70678, 7.57411 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North West",
+				"wardname" : "Akoko North West",
+				"market_name" : "Ogbagi Akoko Market",
+				"globalid" : "4012cd18-2d32-4773-b626-ee39dcc3f1d5",
+				"source" : "OSGOF",
+				"longitude" : "5.70678",
+				"latitude" : "7.57411"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.67157, 7.57925 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North West",
+				"wardname" : "Akoko North West",
+				"market_name" : "Oke Igbo Market",
+				"globalid" : "9d221768-e310-45c0-86f4-2f1825d88bf3",
+				"source" : "OSGOF",
+				"longitude" : "5.67157",
+				"latitude" : "7.57925"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.81543, 7.58728 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North West",
+				"wardname" : "Akoko North West",
+				"market_name" : "Erusu Akoko Market",
+				"globalid" : "1db6f0de-de40-4d51-bfb4-f8953e1bc5f1",
+				"source" : "OSGOF",
+				"longitude" : "5.81543",
+				"latitude" : "7.58728"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.67068, 7.58842 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North West",
+				"wardname" : "Akoko North West",
+				"market_name" : "Irun Akoko Market",
+				"globalid" : "541ee1f4-cf6e-4e95-919a-9b01d30e1f23",
+				"source" : "OSGOF",
+				"longitude" : "5.67068",
+				"latitude" : "7.58842"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.85613, 7.60468 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North West",
+				"wardname" : "Akoko North West",
+				"market_name" : "Ikaram Akoko Market",
+				"globalid" : "e15bb8a0-80c4-44cf-b2b5-f545731d6ae1",
+				"source" : "OSGOF",
+				"longitude" : "5.85613",
+				"latitude" : "7.60468"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.6977, 7.6111 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North West",
+				"wardname" : "Akoko North West",
+				"market_name" : "Ese Market",
+				"globalid" : "9fddaad0-bb04-4535-a6af-33ba04577f26",
+				"source" : "OSGOF",
+				"longitude" : "5.6977",
+				"latitude" : "7.6111"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.94162, 7.63287 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North East",
+				"wardname" : "Akoko North East",
+				"market_name" : "Akunnu Market",
+				"globalid" : "12b66e09-5a10-4ddb-859c-794277b7f601",
+				"source" : "OSGOF",
+				"longitude" : "5.94162",
+				"latitude" : "7.63287"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.88058, 7.63819 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North West",
+				"wardname" : "Akoko North West",
+				"market_name" : "Igedegede Market",
+				"globalid" : "324732b3-0c82-42ca-afb7-c696664766dc",
+				"source" : "OSGOF",
+				"longitude" : "5.88058",
+				"latitude" : "7.63819"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.79826, 7.72393 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North West",
+				"wardname" : "Akoko North West",
+				"market_name" : "Igasi Akoko Market",
+				"globalid" : "e29d756a-a052-4642-9505-f7f1ab2ef59f",
+				"source" : "OSGOF",
+				"longitude" : "5.79826",
+				"latitude" : "7.72393"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.64572, 6.49766 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Okitipupa",
+				"wardname" : "Okitipupa",
+				"market_name" : "Ode Igbisin Market",
+				"globalid" : "cc58ed30-278b-4b94-98ed-651513ba2b91",
+				"source" : "OSGOF",
+				"longitude" : "4.64572",
+				"latitude" : "6.49766"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.83013, 6.58737 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Okitipupa",
+				"wardname" : "Okitipupa",
+				"market_name" : "Agbabu Market",
+				"globalid" : "74736c44-ca62-45bd-bddf-faaf0980d678",
+				"source" : "OSGOF",
+				"longitude" : "4.83013",
+				"latitude" : "6.58737"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.9735, 6.84744 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Odigbo",
+				"wardname" : "Odigbo",
+				"market_name" : "Ariyo Ii Market",
+				"globalid" : "cce7609a-c59b-4c6e-8b6b-e59adb73c36b",
+				"source" : "OSGOF",
+				"longitude" : "4.9735",
+				"latitude" : "6.84744"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.56224, 6.91328 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ondo West",
+				"wardname" : "Ondo West",
+				"market_name" : "Akinjala Market",
+				"globalid" : "a151e321-58a6-4ad8-9dcb-1b061e2c94bc",
+				"source" : "OSGOF",
+				"longitude" : "4.56224",
+				"latitude" : "6.91328"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8832, 6.92825 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Odigbo",
+				"wardname" : "Odigbo",
+				"market_name" : "Igborowo Market",
+				"globalid" : "8a439a47-d181-463b-8082-1c9ae54429d1",
+				"source" : "OSGOF",
+				"longitude" : "4.8832",
+				"latitude" : "6.92825"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.74386, 6.96302 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ose",
+				"wardname" : "Ose",
+				"market_name" : "Ori Ohin Market",
+				"globalid" : "f8f93b28-ef99-471c-8d32-4a31b6a9ac76",
+				"source" : "OSGOF",
+				"longitude" : "5.74386",
+				"latitude" : "6.96302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.72176, 7.01926 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ondo West",
+				"wardname" : "Ondo West",
+				"market_name" : "Egure -Oba Market",
+				"globalid" : "0f146e7f-adcd-42fb-a679-06359c7453e9",
+				"source" : "OSGOF",
+				"longitude" : "4.72176",
+				"latitude" : "7.01926"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.62243, 7.05569 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ondo West",
+				"wardname" : "Ondo West",
+				"market_name" : "Gbagia Market",
+				"globalid" : "c48e15d9-b9da-4d74-ac1c-7725edf10a48",
+				"source" : "OSGOF",
+				"longitude" : "4.62243",
+				"latitude" : "7.05569"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.62242, 7.05585 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ondo West",
+				"wardname" : "Ondo West",
+				"market_name" : "Gbaghia Oja Market",
+				"globalid" : "0bb7ad11-bcca-4fbc-a095-ea5a8cb0278d",
+				"source" : "OSGOF",
+				"longitude" : "4.62242",
+				"latitude" : "7.05585"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.26655, 7.20925 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akure North",
+				"wardname" : "Akure North",
+				"market_name" : "Ilado Market",
+				"globalid" : "0c9b0a08-ddc1-441e-9194-1f9d92c35659",
+				"source" : "OSGOF",
+				"longitude" : "5.26655",
+				"latitude" : "7.20925"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.3849, 7.2606 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akure North",
+				"wardname" : "Akure North",
+				"market_name" : "Okeodo Village Market",
+				"globalid" : "baf64acd-add9-47d5-8d7b-43e44666c0bd",
+				"source" : "OSGOF",
+				"longitude" : "5.3849",
+				"latitude" : "7.2606"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.46608, 7.26453 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Amurin Market",
+				"globalid" : "4f08dd46-75ed-4fb9-b4c6-85d34db1115b",
+				"source" : "OSGOF",
+				"longitude" : "5.46608",
+				"latitude" : "7.26453"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.92014, 7.42727 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South East",
+				"wardname" : "Akoko South East",
+				"market_name" : "Sosan Akoko Market",
+				"globalid" : "bc1a84b3-88fa-4185-a9ce-415c4b78ff70",
+				"source" : "OSGOF",
+				"longitude" : "5.92014",
+				"latitude" : "7.42727"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.91592, 7.4575 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko South East",
+				"wardname" : "Akoko South East",
+				"market_name" : "Isua Akoko Market",
+				"globalid" : "c26a2e02-feca-4623-a183-4c637f3432c8",
+				"source" : "OSGOF",
+				"longitude" : "5.91592",
+				"latitude" : "7.4575"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.91582, 7.51275 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North East",
+				"wardname" : "Akoko North East",
+				"market_name" : "Ise Akoko Market",
+				"globalid" : "6f3ae6be-a340-4d18-bff2-56cddd2bd347",
+				"source" : "OSGOF",
+				"longitude" : "5.91582",
+				"latitude" : "7.51275"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.91628, 7.55663 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North East",
+				"wardname" : "Akoko North East",
+				"market_name" : "Auga Akoko Market",
+				"globalid" : "cdb55b8d-cc27-42e8-88d6-5356918c95e0",
+				"source" : "OSGOF",
+				"longitude" : "5.91628",
+				"latitude" : "7.55663"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.74818, 7.59311 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North West",
+				"wardname" : "Akoko North West",
+				"market_name" : "Iye Akoko Market",
+				"globalid" : "47951a24-f050-406d-8a5b-495ade35eb9c",
+				"source" : "OSGOF",
+				"longitude" : "5.74818",
+				"latitude" : "7.59311"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.01569, 7.00506 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Idanre",
+				"wardname" : "Ijomu-Isurin",
+				"market_name" : "Owena Egbeda Market",
+				"globalid" : "ca8dcb6f-dbf2-4553-ab02-465f89709724",
+				"source" : "OSGOF",
+				"urban" : "No",
+				"longitude" : "5.01569",
+				"latitude" : "7.00506"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.15882, 7.01674 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Idanre",
+				"wardname" : "Isalu-Jigbokin",
+				"market_name" : "Ayede Market",
+				"globalid" : "01830008-9742-47a1-9151-310fb6c5f3c9",
+				"source" : "OSGOF",
+				"urban" : "No",
+				"longitude" : "5.15882",
+				"latitude" : "7.01674"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0945, 7.14105 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Idanre",
+				"wardname" : "Alade-Atosin",
+				"market_name" : "Alade Idanre Market",
+				"globalid" : "d681bff9-8e48-46b2-9068-a113cec000a2",
+				"source" : "OSGOF",
+				"urban" : "No",
+				"longitude" : "5.0945",
+				"latitude" : "7.14105"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.72367, 7.16953 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ile Oluji/Okeigbo",
+				"wardname" : "Oke-Igbo 1",
+				"market_name" : "General Market",
+				"globalid" : "83eb0d15-a456-43f0-bd21-e5e92c07d477",
+				"source" : "OSGOF",
+				"urban" : "No",
+				"longitude" : "4.72367",
+				"latitude" : "7.16953"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.06406, 7.23497 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Idanre",
+				"wardname" : "Owena-Aponmu",
+				"market_name" : "Aponmu Long Market",
+				"globalid" : "c2dc5470-d107-4a56-afb1-6a6fd6d0e046",
+				"source" : "OSGOF",
+				"urban" : "No",
+				"longitude" : "5.06406",
+				"latitude" : "7.23497"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.11405, 7.34852 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Ilara-1",
+				"market_name" : "Ilaramoko Market",
+				"globalid" : "24b8c38b-0114-4083-a9ed-5fc7b55e21a5",
+				"source" : "OSGOF",
+				"urban" : "No",
+				"longitude" : "5.11405",
+				"latitude" : "7.34852"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.17158, 7.36011 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Ijare-2",
+				"market_name" : "Ijare Market",
+				"globalid" : "cfd51d72-efab-45b1-82df-0cc02d80ada8",
+				"source" : "OSGOF",
+				"urban" : "Yes",
+				"longitude" : "5.17158",
+				"latitude" : "7.36011"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.17369, 7.36511 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Ijare-2",
+				"market_name" : "Araromi Omoladun Market",
+				"globalid" : "8803c189-1a60-4026-be14-0397b53e2e6e",
+				"source" : "OSGOF",
+				"urban" : "Yes",
+				"longitude" : "5.17369",
+				"latitude" : "7.36511"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.08498, 7.38226 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Ero/Ibuji",
+				"market_name" : "Ero Market",
+				"globalid" : "e62c71a2-be72-4fbf-989f-38b54f6cc17e",
+				"source" : "OSGOF",
+				"urban" : "No",
+				"longitude" : "5.08498",
+				"latitude" : "7.38226"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0692, 7.40105 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Isarun/Owena",
+				"market_name" : "Isarun Market",
+				"globalid" : "b43e7cee-9723-463e-9304-07c020954541",
+				"source" : "OSGOF",
+				"urban" : "No",
+				"longitude" : "5.0692",
+				"latitude" : "7.40105"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.05665, 7.41171 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke-1",
+				"market_name" : "Igbara Oke Market",
+				"globalid" : "677f6cd8-2d38-4385-8f39-64c03e25c70c",
+				"source" : "OSGOF",
+				"urban" : "Yes",
+				"longitude" : "5.05665",
+				"latitude" : "7.41171"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.14154, 7.07776 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Idanre",
+				"wardname" : "Isalu-Ehinpeti",
+				"market_name" : "Apefon Market",
+				"globalid" : "96ee1cb2-3b23-4b41-920a-0de5c5df97d9",
+				"source" : "OSGOF",
+				"urban" : "No",
+				"longitude" : "5.14154",
+				"latitude" : "7.07776"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.74164, 7.12063 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ile Oluji/Okeigbo",
+				"wardname" : "Oke-Igbo 4",
+				"market_name" : "Asana Tatonmi Market",
+				"globalid" : "de1162a6-1223-4580-b01a-6f6b44aeece5",
+				"source" : "OSGOF",
+				"urban" : "No",
+				"longitude" : "4.74164",
+				"latitude" : "7.12063"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.01216, 7.26887 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ile Oluji/Okeigbo",
+				"wardname" : "Ileoluji 5",
+				"market_name" : "Kolawole Market",
+				"globalid" : "b95f05a1-f633-4f05-b6c9-8f6c4cbb256f",
+				"source" : "OSGOF",
+				"urban" : "No",
+				"longitude" : "5.01216",
+				"latitude" : "7.26887"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.15055, 7.3453 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Ikota/Irese",
+				"market_name" : "Ikota Market",
+				"globalid" : "ee2b87f5-233e-45f1-85a5-e2c23be976da",
+				"source" : "OSGOF",
+				"urban" : "Yes",
+				"longitude" : "5.15055",
+				"latitude" : "7.3453"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.06666, 7.4548 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Ero/Ibuji",
+				"market_name" : "Ibuji Market",
+				"globalid" : "1df47557-a92a-444f-ac7b-136a93ff5be6",
+				"source" : "OSGOF",
+				"urban" : "No",
+				"longitude" : "5.06666",
+				"latitude" : "7.4548"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.076746514, 6.8444890555 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Idanre",
+				"wardname" : "Ofosu-Onisere",
+				"market_name" : "Atukpa Plantain Market",
+				"market_type_goods" : "Food Stuff",
+				"product_description" : "Food Stuff",
+				"market_days_monday" : "No",
+				"market_days_tuesday" : "No",
+				"market_days_wednesday" : "Yes",
+				"market_days_thursday" : "No",
+				"market_days_friday" : "No",
+				"market_days_saturday" : "No",
+				"market_days_sunday" : "No",
+				"total_market_days" : 1,
+				"market_frequency" : "Weekly",
+				"globalid" : "72ab7ceb-e738-4fec-be90-ce23e51100a5",
+				"source" : "GRID",
+				"urban" : "No",
+				"longitude" : "5.07674651397115",
+				"latitude" : "6.84448905551788"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1952600808, 7.2513523951 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Akure South",
+				"market_name" : "Bagbe Akure Market",
+				"market_type_goods" : "Livestock Food Stuff",
+				"product_description" : "Livestock Food Stuff",
+				"market_days_monday" : "No",
+				"market_days_tuesday" : "No",
+				"market_days_wednesday" : "No",
+				"market_days_thursday" : "Yes",
+				"market_days_friday" : "No",
+				"market_days_saturday" : "No",
+				"market_days_sunday" : "No",
+				"total_market_days" : 1,
+				"market_frequency" : "Weekly",
+				"globalid" : "ad9dcc5f-7450-455e-97bb-deb22e79bdd8",
+				"source" : "GRID",
+				"longitude" : "5.1952600807781",
+				"latitude" : "7.25135239510787"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0986294438, 7.1447476615 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Idanre",
+				"wardname" : "Alade-Atosin",
+				"market_name" : "Alade Atosin Market",
+				"market_type_goods" : "Mixed",
+				"product_description" : "Mixed",
+				"market_days_monday" : "No",
+				"market_days_tuesday" : "Yes",
+				"market_days_wednesday" : "No",
+				"market_days_thursday" : "No",
+				"market_days_friday" : "No",
+				"market_days_saturday" : "No",
+				"market_days_sunday" : "No",
+				"total_market_days" : 1,
+				"market_frequency" : "Bi Weekly",
+				"globalid" : "503e7a17-c1ae-4df7-a796-2608d49a707f",
+				"source" : "GRID",
+				"urban" : "No",
+				"longitude" : "5.09862944381584",
+				"latitude" : "7.14474766147055"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1350792802, 7.1673418881 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Idanre",
+				"wardname" : "Alade-Atosin",
+				"market_name" : "Ita Oloorun market",
+				"market_type_goods" : "Mixed",
+				"product_description" : "Mixed",
+				"market_days_monday" : "No",
+				"market_days_tuesday" : "Yes",
+				"market_days_wednesday" : "No",
+				"market_days_thursday" : "No",
+				"market_days_friday" : "No",
+				"market_days_saturday" : "No",
+				"market_days_sunday" : "No",
+				"total_market_days" : 1,
+				"market_frequency" : "Bi_Weekly",
+				"globalid" : "549ab393-850e-4039-9da0-a213e44e5362",
+				"source" : "GRID",
+				"urban" : "No",
+				"longitude" : "5.13507928015396",
+				"latitude" : "7.1673418881314"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.66293536, 7.0889671036 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Owo",
+				"wardname" : "Owo",
+				"market_name" : "Molege Market",
+				"market_type_goods" : "Clothing Electronic Spareparts Food Stuff Mixed Other",
+				"other_market_type_goods" : "All kinds of Foods Stuffs",
+				"product_description" : "Clothing Electronic Spareparts Food Stuff Mixed Other",
+				"market_days_monday" : "Yes",
+				"market_days_tuesday" : "Yes",
+				"market_days_wednesday" : "Yes",
+				"market_days_thursday" : "Yes",
+				"market_days_friday" : "Yes",
+				"market_days_saturday" : "Yes",
+				"market_days_sunday" : "Yes",
+				"total_market_days" : 7,
+				"market_frequency" : "Weekly",
+				"globalid" : "cb55d394-9465-48fe-9e0f-16851316c1d7",
+				"source" : "GRID",
+				"longitude" : "5.66293536001826",
+				"latitude" : "7.08896710363235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.19561, 7.25289 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Akure South",
+				"market_name" : "Akure Market",
+				"globalid" : "ad9dcc5f-7450-455e-97bb-deb22e79bdd8",
+				"source" : "OSGOF",
+				"longitude" : "5.19561",
+				"latitude" : "7.25289"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.006704624, 7.4004515466 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Isarun/Owena",
+				"market_name" : "Owena Market",
+				"market_type_goods" : "Food Stuff",
+				"product_description" : "Clothing Livestock Electronic Spareparts Food Stuff Mixed",
+				"market_days_monday" : "Yes",
+				"market_days_tuesday" : "No",
+				"market_days_wednesday" : "No",
+				"market_days_thursday" : "No",
+				"market_days_friday" : "No",
+				"market_days_saturday" : "No",
+				"market_days_sunday" : "Yes",
+				"total_market_days" : 2,
+				"market_frequency" : "Weekly",
+				"globalid" : "d9b14cd5-a38b-4b44-b833-9701bc53896c",
+				"source" : "GRID",
+				"urban" : "No",
+				"longitude" : "5.0067046239794",
+				"latitude" : "7.40045154655412"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.093187113, 6.8767739685 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Idanre",
+				"wardname" : "Isalu-Jigbokin",
+				"market_name" : "Blessing Camp Market",
+				"market_type_goods" : "Food Stuff",
+				"product_description" : "Food Stuff",
+				"market_days_monday" : "No",
+				"market_days_tuesday" : "Yes",
+				"market_days_wednesday" : "No",
+				"market_days_thursday" : "No",
+				"market_days_friday" : "No",
+				"market_days_saturday" : "No",
+				"market_days_sunday" : "No",
+				"total_market_days" : 1,
+				"market_frequency" : "Weekly",
+				"globalid" : "ec2014b8-4c89-450a-a27f-a951c5511702",
+				"source" : "GRID",
+				"urban" : "No",
+				"longitude" : "5.09318711295289",
+				"latitude" : "6.87677396853385"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7931337917, 6.1527783805 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ilaje",
+				"wardname" : "Ilaje",
+				"market_name" : "Omuro International Market Ugbo Ilaje",
+				"market_type_goods" : "Mixed",
+				"product_description" : "Mixed",
+				"market_days_monday" : "Yes",
+				"market_days_tuesday" : "Yes",
+				"market_days_wednesday" : "Yes",
+				"market_days_thursday" : "Yes",
+				"market_days_friday" : "Yes",
+				"market_days_saturday" : "Yes",
+				"market_days_sunday" : "Yes",
+				"total_market_days" : 7,
+				"market_frequency" : "Other",
+				"globalid" : "398e38f6-cb7d-4401-b389-5bee4a337839",
+				"source" : "GRID",
+				"longitude" : "4.79313379165562",
+				"latitude" : "6.15277838048506"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.160152822, 7.2494390898 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Akure South",
+				"market_name" : "Jilalu Market",
+				"market_type_goods" : "Clothing Livestock",
+				"product_description" : "Clothing Livestock",
+				"market_days_monday" : "No",
+				"market_days_tuesday" : "No",
+				"market_days_wednesday" : "Yes",
+				"market_days_thursday" : "No",
+				"market_days_friday" : "No",
+				"market_days_saturday" : "No",
+				"market_days_sunday" : "No",
+				"total_market_days" : 1,
+				"market_frequency" : "Weekly",
+				"globalid" : "9d089078-9099-4705-981e-c2cedca3683c",
+				"source" : "GRID",
+				"longitude" : "5.16015282201301",
+				"latitude" : "7.24943908977561"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0198001731, 7.1956296213 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Idanre",
+				"wardname" : "Owena-Aponmu",
+				"market_name" : "Ilunla Market",
+				"market_type_goods" : "Livestock Food Stuff",
+				"product_description" : "Livestock Food Stuff",
+				"market_days_monday" : "No",
+				"market_days_tuesday" : "Yes",
+				"market_days_wednesday" : "No",
+				"market_days_thursday" : "No",
+				"market_days_friday" : "No",
+				"market_days_saturday" : "No",
+				"market_days_sunday" : "No",
+				"total_market_days" : 1,
+				"market_frequency" : "Weekly",
+				"globalid" : "001a0e22-5717-483b-b382-305e0152ad5e",
+				"source" : "GRID",
+				"urban" : "No",
+				"longitude" : "5.01980017309483",
+				"latitude" : "7.19562962130979"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6324335597, 7.0181633793 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Ondo West",
+				"wardname" : "Ondo West",
+				"market_name" : "Laje Market",
+				"market_type_goods" : "Clothing Livestock Food Stuff",
+				"product_description" : "Clothing Livestock Food Stuff",
+				"market_days_monday" : "No",
+				"market_days_tuesday" : "No",
+				"market_days_wednesday" : "No",
+				"market_days_thursday" : "Yes",
+				"market_days_friday" : "No",
+				"market_days_saturday" : "No",
+				"market_days_sunday" : "No",
+				"total_market_days" : 1,
+				"market_frequency" : "Weekly",
+				"globalid" : "66b41d2f-15ae-4962-a427-9424a80efaf7",
+				"source" : "GRID",
+				"longitude" : "4.63243355970877",
+				"latitude" : "7.01816337927643"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.9061466331, 7.681151003 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North West",
+				"wardname" : "Akoko North West",
+				"market_name" : "Ajowa Market",
+				"market_type_goods" : "Clothing Livestock Electronic Spareparts Food Stuff Mixed",
+				"product_description" : "Clothing Livestock Electronic Spareparts Food Stuff Mixed",
+				"market_days_monday" : "Yes",
+				"market_days_tuesday" : "Yes",
+				"market_days_wednesday" : "Yes",
+				"market_days_thursday" : "Yes",
+				"market_days_friday" : "Yes",
+				"market_days_saturday" : "Yes",
+				"market_days_sunday" : "Yes",
+				"total_market_days" : 7,
+				"market_frequency" : "Other",
+				"globalid" : "a22007f4-16f2-46f9-ba63-875ffaf91aa2",
+				"source" : "GRID",
+				"longitude" : "5.90614663307447",
+				"latitude" : "7.68115100298265"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.7575910761, 7.6726287294 ]
+			},
+			"properties" : {
+				"statecode" : "ON",
+				"statename" : "Ondo",
+				"lganame" : "Akoko North West",
+				"wardname" : "Akoko North West",
+				"market_name" : "Oyin Akoko Market",
+				"market_type_goods" : "Clothing Livestock Electronic Spareparts Food Stuff Mixed",
+				"product_description" : "Clothing Livestock Electronic Spareparts Food Stuff Mixed",
+				"market_days_monday" : "Yes",
+				"market_days_tuesday" : "Yes",
+				"market_days_wednesday" : "Yes",
+				"market_days_thursday" : "Yes",
+				"market_days_friday" : "Yes",
+				"market_days_saturday" : "Yes",
+				"market_days_sunday" : "Yes",
+				"total_market_days" : 7,
+				"market_frequency" : "Weekly",
+				"globalid" : "3b200b1b-7b83-449f-9e38-a0a96dd25b23",
+				"source" : "GRID",
+				"longitude" : "5.75759107614276",
+				"latitude" : "7.67262872939991"
+			}
+		}
+	]
+}

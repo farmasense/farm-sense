@@ -1,0 +1,6194 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "farm",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0129851564, 7.3411173905 ]
+			},
+			"properties" : {
+				"farm_id" : "0000001",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 30,
+				"farmers_experience" : "2",
+				"crops_grown" : "Cassava Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "7",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.01258097967549",
+				"latitude" : "7.34076546933308"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0134494822, 7.3454146286 ]
+			},
+			"properties" : {
+				"farm_id" : "0000002",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 27,
+				"farmers_experience" : "10",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "20",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.01344948219146",
+				"latitude" : "7.34541462861271"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0088083325, 7.3408828344 ]
+			},
+			"properties" : {
+				"farm_id" : "0000003",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 2",
+				"sex" : "Male",
+				"age" : 47,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "25",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.00858979513073",
+				"latitude" : "7.34142353419352"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0202222275, 7.3524940349 ]
+			},
+			"properties" : {
+				"farm_id" : "0000004",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 2",
+				"sex" : "Male",
+				"age" : 28,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Subsistence",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "4",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.02022222753915",
+				"latitude" : "7.35249403490906"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0226761221, 7.355978129 ]
+			},
+			"properties" : {
+				"farm_id" : "0000005",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 2",
+				"sex" : "Male",
+				"age" : 30,
+				"farmers_experience" : "12",
+				"crops_grown" : "Cassava Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "8",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.0230638497609",
+				"latitude" : "7.35620185934515"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.023112869, 7.3561063345 ]
+			},
+			"properties" : {
+				"farm_id" : "0000006",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 2",
+				"sex" : "Male",
+				"age" : 30,
+				"farmers_experience" : "13",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "5",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.02308467061123",
+				"latitude" : "7.35611332604871"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.022223771, 7.3533011573 ]
+			},
+			"properties" : {
+				"farm_id" : "0000007",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 2",
+				"sex" : "Male",
+				"age" : 25,
+				"farmers_experience" : "6",
+				"crops_grown" : "Cassava Maize Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "30",
+				"farm_plot_size" : "200 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.02230366638504",
+				"latitude" : "7.35334310703934"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.022237967, 7.3529591172 ]
+			},
+			"properties" : {
+				"farm_id" : "0000008",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 2",
+				"sex" : "Male",
+				"age" : 25,
+				"farmers_experience" : "5",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "6",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.02225441604857",
+				"latitude" : "7.35296377824749"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0097492711, 7.3487809539 ]
+			},
+			"properties" : {
+				"farm_id" : "0000009",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 35,
+				"farmers_experience" : "11",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.00969757406905",
+				"latitude" : "7.34883688737838"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0094237108, 7.3492468359 ]
+			},
+			"properties" : {
+				"farm_id" : "000010",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 35,
+				"farmers_experience" : "11",
+				"crops_grown" : "Yam",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.00943780996015",
+				"latitude" : "7.34929344725104"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0095243525, 7.3478464254 ]
+			},
+			"properties" : {
+				"farm_id" : "000011",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 45,
+				"farmers_experience" : "12",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.0091789223485",
+				"latitude" : "7.34766697169104"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0075008954, 7.3484768096 ]
+			},
+			"properties" : {
+				"farm_id" : "000012",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 35,
+				"farmers_experience" : "11",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.0076348376876",
+				"latitude" : "7.34832532285347"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0110077756, 7.34798059 ]
+			},
+			"properties" : {
+				"farm_id" : "000013",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 42,
+				"farmers_experience" : "12",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.01117226617897",
+				"latitude" : "7.34755409600508"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0422045119, 7.3715822704 ]
+			},
+			"properties" : {
+				"farm_id" : "000014",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 39,
+				"farmers_experience" : "4",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.04256874091683",
+				"latitude" : "7.37257969899454"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0438504104, 7.3717165836 ]
+			},
+			"properties" : {
+				"farm_id" : "000015",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 28,
+				"farmers_experience" : "6",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.04386450959455",
+				"latitude" : "7.37191001022487"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0445370152, 7.3702813284 ]
+			},
+			"properties" : {
+				"farm_id" : "000016",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 28,
+				"farmers_experience" : "6",
+				"crops_grown" : "Kolanut",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "4",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.04450881679164",
+				"latitude" : "7.37028365881434"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0274130124, 7.3506846154 ]
+			},
+			"properties" : {
+				"farm_id" : "000017",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 48,
+				"farmers_experience" : "25",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "18",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.02754695469595",
+				"latitude" : "7.35077550692696"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0236792421, 7.355740352 ]
+			},
+			"properties" : {
+				"farm_id" : "000018",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 29,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "25",
+				"farm_plot_size" : "200 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.02342545675943",
+				"latitude" : "7.35589416666216"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0229504927, 7.3571236018 ]
+			},
+			"properties" : {
+				"farm_id" : "000019",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 30,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "26",
+				"farm_plot_size" : "200 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.02290819516526",
+				"latitude" : "7.3565502937934"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0224542141, 7.3566906288 ]
+			},
+			"properties" : {
+				"farm_id" : "000020",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 42,
+				"farmers_experience" : "6",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "17",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.0225905062613",
+				"latitude" : "7.35665567094606"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0422685921, 7.3711829326 ]
+			},
+			"properties" : {
+				"farm_id" : "000021",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 50,
+				"farmers_experience" : "15",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "8",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04280906100475",
+				"latitude" : "7.37248331903348"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0216328791, 7.3532925984 ]
+			},
+			"properties" : {
+				"farm_id" : "000022",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 58,
+				"farmers_experience" : "35",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "35",
+				"farm_plot_size" : "200 By 200",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.02226499268624",
+				"latitude" : "7.35340679475508"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0426751796, 7.3710158341 ]
+			},
+			"properties" : {
+				"farm_id" : "000023",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 50,
+				"farmers_experience" : "15",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "6",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04293836447448",
+				"latitude" : "7.37258422158207"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0427693463, 7.3716989645 ]
+			},
+			"properties" : {
+				"farm_id" : "000024",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Ijare 1",
+				"sex" : "Male",
+				"age" : 30,
+				"farmers_experience" : "4",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "5",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04298318402739",
+				"latitude" : "7.37268940165924"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0435967177, 7.3713265057 ]
+			},
+			"properties" : {
+				"farm_id" : "000025",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 43,
+				"farmers_experience" : "12",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.04350977273464",
+				"latitude" : "7.37146866276842"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0432535905, 7.3712392918 ]
+			},
+			"properties" : {
+				"farm_id" : "000026",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 39,
+				"farmers_experience" : "15",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04294810810741",
+				"latitude" : "7.37167508471748"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0441142089, 7.3715073426 ]
+			},
+			"properties" : {
+				"farm_id" : "000027",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 20,
+				"farmers_experience" : "6",
+				"crops_grown" : "Kolanut",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04407191128652",
+				"latitude" : "7.3716681431342"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0444412889, 7.3716519333 ]
+			},
+			"properties" : {
+				"farm_id" : "000028",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 42,
+				"farmers_experience" : "5",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.04415225551807",
+				"latitude" : "7.3717591335944"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0432340453, 7.3715394772 ]
+			},
+			"properties" : {
+				"farm_id" : "000029",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 31,
+				"farmers_experience" : "11",
+				"crops_grown" : "Kolanut",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "4",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04310010296893",
+				"latitude" : "7.37155579030596"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0435609076, 7.3735615469 ]
+			},
+			"properties" : {
+				"farm_id" : "000030",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 28,
+				"farmers_experience" : "8",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "4",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.0435186100191",
+				"latitude" : "7.3734333731127"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0433325505, 7.3731760917 ]
+			},
+			"properties" : {
+				"farm_id" : "000031",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 23,
+				"farmers_experience" : "3",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.04340069660709",
+				"latitude" : "7.37290343088364"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.042538208, 7.3713954873 ]
+			},
+			"properties" : {
+				"farm_id" : "000032",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 69,
+				"farmers_experience" : "25",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.04286248932364",
+				"latitude" : "7.37233465492204"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0429627615, 7.3712595066 ]
+			},
+			"properties" : {
+				"farm_id" : "000033",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 2",
+				"sex" : "Male",
+				"age" : 29,
+				"farmers_experience" : "7",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.0428546677304",
+				"latitude" : "7.37138068971769"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0420292867, 7.3713718517 ]
+			},
+			"properties" : {
+				"farm_id" : "000034",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 33,
+				"farmers_experience" : "18",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04291048592174",
+				"latitude" : "7.37255804627612"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0426101848, 7.3715757092 ]
+			},
+			"properties" : {
+				"farm_id" : "000035",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 42,
+				"farmers_experience" : "4",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "60 By 120",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.04295326501974",
+				"latitude" : "7.37253585077125"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0453391215, 7.371615249 ]
+			},
+			"properties" : {
+				"farm_id" : "000036",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 50,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04414774011419",
+				"latitude" : "7.37251246851279"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.044939849, 7.3714971448 ]
+			},
+			"properties" : {
+				"farm_id" : "000037",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 29,
+				"farmers_experience" : "7",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "4",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.04411739636151",
+				"latitude" : "7.37245961687739"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0433671482, 7.3737574651 ]
+			},
+			"properties" : {
+				"farm_id" : "000038",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 29,
+				"farmers_experience" : "8",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04336714822688",
+				"latitude" : "7.37375746510355"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0425416786, 7.3740900088 ]
+			},
+			"properties" : {
+				"farm_id" : "000039",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 43,
+				"farmers_experience" : "18",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.04386935212909",
+				"latitude" : "7.37265213124551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1670799751, 7.2110669354 ]
+			},
+			"properties" : {
+				"farm_id" : "000040",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 42,
+				"farmers_experience" : "15",
+				"crops_grown" : "Cassava Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "8",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16694368296288",
+				"latitude" : "7.21077552547556"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1672883948, 7.2102180358 ]
+			},
+			"properties" : {
+				"farm_id" : "000041",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 40,
+				"farmers_experience" : "5",
+				"crops_grown" : "Cassava Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.167229648152",
+				"latitude" : "7.21002687061492"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1550398115, 7.208785155 ]
+			},
+			"properties" : {
+				"farm_id" : "000042",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 18,
+				"farmers_experience" : "3",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : null,
+				"farm_plot_size" : "200 By 200",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15486592147821",
+				"latitude" : "7.20890871337138"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1490843076, 7.2122216688 ]
+			},
+			"properties" : {
+				"farm_id" : "000043",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 25,
+				"farmers_experience" : "12",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "N/A",
+				"cooperative" : "No",
+				"highest_quantity" : null,
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.14889396855401",
+				"latitude" : "7.21204915463696"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1646922584, 7.2124709637 ]
+			},
+			"properties" : {
+				"farm_id" : "000044",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 22,
+				"farmers_experience" : "2",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "N/A",
+				"cooperative" : "No",
+				"highest_quantity" : null,
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16437972640935",
+				"latitude" : "7.21220053611982"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1581580158, 7.2785372086 ]
+			},
+			"properties" : {
+				"farm_id" : "000045",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 55,
+				"farmers_experience" : "15",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "200 By 200",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15815801575744",
+				"latitude" : "7.27853720861985"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1573268733, 7.2777876006 ]
+			},
+			"properties" : {
+				"farm_id" : "000046",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 37,
+				"farmers_experience" : "15",
+				"crops_grown" : "Maize Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15707308786405",
+				"latitude" : "7.2779647514512"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.155744261, 7.2776622763 ]
+			},
+			"properties" : {
+				"farm_id" : "000047",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 37,
+				"farmers_experience" : "15",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15542467939279",
+				"latitude" : "7.27763197412606"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1595570246, 7.2790858742 ]
+			},
+			"properties" : {
+				"farm_id" : "000048",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Female",
+				"age" : 50,
+				"farmers_experience" : "10",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15947242950546",
+				"latitude" : "7.2790812123006"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1675969681, 7.2105268835 ]
+			},
+			"properties" : {
+				"farm_id" : "000049",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 42,
+				"farmers_experience" : "4",
+				"crops_grown" : "Maize Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "60 By 120",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16766041441924",
+				"latitude" : "7.21040798817168"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1689378625, 7.2098383201 ]
+			},
+			"properties" : {
+				"farm_id" : "000050",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure North",
+				"wardname" : "Oke Ore",
+				"sex" : "Male",
+				"age" : 34,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "15",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16862063078183",
+				"latitude" : "7.20952126524516"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1685879879, 7.2093019744 ]
+			},
+			"properties" : {
+				"farm_id" : "000051",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure North",
+				"wardname" : "Oke Ore",
+				"sex" : "Male",
+				"age" : 34,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "20",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16853864076403",
+				"latitude" : "7.20926234249386"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1515149647, 7.2110363107 ]
+			},
+			"properties" : {
+				"farm_id" : "000052",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 51,
+				"farmers_experience" : "20",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.1515008655395",
+				"latitude" : "7.21084048328868"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1464906614, 7.2141818032 ]
+			},
+			"properties" : {
+				"farm_id" : "000053",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 51,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "30",
+				"farm_plot_size" : "200 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.14649771101892",
+				"latitude" : "7.21456646137044"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0438476122, 7.3742350541 ]
+			},
+			"properties" : {
+				"farm_id" : "000054",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 27,
+				"farmers_experience" : "6",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "20",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.04389460953704",
+				"latitude" : "7.3737876115321"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0438872329, 7.3737564037 ]
+			},
+			"properties" : {
+				"farm_id" : "000055",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 31,
+				"farmers_experience" : "6",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "17",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.04391543124856",
+				"latitude" : "7.37376572538964"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1686123485, 7.2581184708 ]
+			},
+			"properties" : {
+				"farm_id" : "000056",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 26,
+				"farmers_experience" : "6",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "7",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.16902592471388",
+				"latitude" : "7.25790867756369"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1662545795, 7.2105428921 ]
+			},
+			"properties" : {
+				"farm_id" : "000057",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 55,
+				"farmers_experience" : "20",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "Yes",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.16702063535404",
+				"latitude" : "7.21065013101151"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1544174398, 7.2093091794 ]
+			},
+			"properties" : {
+				"farm_id" : "000058",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 25,
+				"farmers_experience" : "15",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "7",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15492031089309",
+				"latitude" : "7.20941175600807"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0434414096, 7.3750985818 ]
+			},
+			"properties" : {
+				"farm_id" : "000059",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 25,
+				"farmers_experience" : "6",
+				"crops_grown" : "Kolanut",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "4",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.04330041775537",
+				"latitude" : "7.37391006375887"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0442334497, 7.3746203192 ]
+			},
+			"properties" : {
+				"farm_id" : "000060",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 26,
+				"farmers_experience" : "8",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.04402666162146",
+				"latitude" : "7.37335722598724"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0425493975, 7.3746290386 ]
+			},
+			"properties" : {
+				"farm_id" : "000061",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 29,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "Yes",
+				"highest_quantity" : "9",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.04294417475777",
+				"latitude" : "7.37433540470687"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0455287982, 7.3728223536 ]
+			},
+			"properties" : {
+				"farm_id" : "000062",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 58,
+				"farmers_experience" : "25",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "5",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.04475804255587",
+				"latitude" : "7.37299480582863"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.16023874, 7.213666595 ]
+			},
+			"properties" : {
+				"farm_id" : "000063",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 65,
+				"farmers_experience" : "30",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "16",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16007894919807",
+				"latitude" : "7.21350806898398"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1576779277, 7.2171432408 ]
+			},
+			"properties" : {
+				"farm_id" : "000064",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 65,
+				"farmers_experience" : "30",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "7",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15817139927641",
+				"latitude" : "7.21651380360978"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1583598988, 7.2164225394 ]
+			},
+			"properties" : {
+				"farm_id" : "000065",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 65,
+				"farmers_experience" : "30",
+				"crops_grown" : "Yam",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15835989877754",
+				"latitude" : "7.21642253938868"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1556075191, 7.2107477722 ]
+			},
+			"properties" : {
+				"farm_id" : "000066",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 19,
+				"farmers_experience" : "5",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15533963450142",
+				"latitude" : "7.21123734073991"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1550284147, 7.2123037399 ]
+			},
+			"properties" : {
+				"farm_id" : "000067",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 45,
+				"farmers_experience" : "20",
+				"crops_grown" : "Oil-Palm",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.15505191337866",
+				"latitude" : "7.21251821682828"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1574342384, 7.2113196557 ]
+			},
+			"properties" : {
+				"farm_id" : "000068",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 37,
+				"farmers_experience" : "13",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "22",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15744363787156",
+				"latitude" : "7.21139425661118"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1673213884, 7.2097389412 ]
+			},
+			"properties" : {
+				"farm_id" : "000069",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 40,
+				"farmers_experience" : "15",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "15",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16719919540171",
+				"latitude" : "7.20991611881573"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0433696989, 7.37414914 ]
+			},
+			"properties" : {
+				"farm_id" : "000070",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 43,
+				"farmers_experience" : "18",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "7",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.04341669619696",
+				"latitude" : "7.37393474045658"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0412219183, 7.3710422859 ]
+			},
+			"properties" : {
+				"farm_id" : "000071",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 25,
+				"farmers_experience" : "8",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04183758281345",
+				"latitude" : "7.37175074081981"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0413979201, 7.3717125902 ]
+			},
+			"properties" : {
+				"farm_id" : "000072",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 25,
+				"farmers_experience" : "8",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04176919876359",
+				"latitude" : "7.37164733784806"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0418782823, 7.3701603954 ]
+			},
+			"properties" : {
+				"farm_id" : "000073",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 42,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04291457268479",
+				"latitude" : "7.37248151791147"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0419548501, 7.3708243514 ]
+			},
+			"properties" : {
+				"farm_id" : "000074",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 58,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04280785097004",
+				"latitude" : "7.37249760911585"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0435265457, 7.3705344443 ]
+			},
+			"properties" : {
+				"farm_id" : "000075",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 65,
+				"farmers_experience" : "25",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04286153396468",
+				"latitude" : "7.37248269488529"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0443409202, 7.370938564 ]
+			},
+			"properties" : {
+				"farm_id" : "000076",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 41,
+				"farmers_experience" : "15",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "7",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04291925203245",
+				"latitude" : "7.37261648238903"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1702390921, 7.2581559726 ]
+			},
+			"properties" : {
+				"farm_id" : "000077",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 67,
+				"farmers_experience" : "30",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.16917695326646",
+				"latitude" : "7.25778300682357"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0425228609, 7.3718413064 ]
+			},
+			"properties" : {
+				"farm_id" : "000078",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 32,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.0428541918555",
+				"latitude" : "7.37253577752373"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1568287345, 7.2146950994 ]
+			},
+			"properties" : {
+				"farm_id" : "000079",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 25,
+				"farmers_experience" : "12",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15695562717265",
+				"latitude" : "7.21490491272569"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1536707185, 7.2146281293 ]
+			},
+			"properties" : {
+				"farm_id" : "000080",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 30,
+				"farmers_experience" : "5",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "16",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15330413955441",
+				"latitude" : "7.21449757868817"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1533621519, 7.2136164335 ]
+			},
+			"properties" : {
+				"farm_id" : "000081",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 30,
+				"farmers_experience" : "5",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "N/A",
+				"cooperative" : "No",
+				"highest_quantity" : "0",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.1532258597546",
+				"latitude" : "7.21361177093428"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1557365635, 7.2138144648 ]
+			},
+			"properties" : {
+				"farm_id" : "000082",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 46,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "16",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15573656349317",
+				"latitude" : "7.21381446481864"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1552183437, 7.2129003985 ]
+			},
+			"properties" : {
+				"farm_id" : "000083",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 45,
+				"farmers_experience" : "20",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : null,
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.1551431480178",
+				"latitude" : "7.21273254706801"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1535411741, 7.2116188973 ]
+			},
+			"properties" : {
+				"farm_id" : "000084",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 52,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : null,
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : null,
+				"longitude" : "5.15402994594792",
+				"latitude" : "7.21118061727485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1541153098, 7.2109562747 ]
+			},
+			"properties" : {
+				"farm_id" : "000085",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 52,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "25",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15371113302502",
+				"latitude" : "7.21080707283565"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1537119164, 7.2107087226 ]
+			},
+			"properties" : {
+				"farm_id" : "000086",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 52,
+				"farmers_experience" : "20",
+				"crops_grown" : "Yam",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "10",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15362732131405",
+				"latitude" : "7.21081596151383"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1550778072, 7.2095585434 ]
+			},
+			"properties" : {
+				"farm_id" : "000087",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 58,
+				"farmers_experience" : "15",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "4",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.15495561424862",
+				"latitude" : "7.20942799131186"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1539976832, 7.2079856416 ]
+			},
+			"properties" : {
+				"farm_id" : "000088",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 58,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "30",
+				"farm_plot_size" : "200 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.15390838833942",
+				"latitude" : "7.20786441423352"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1610945557, 7.2122204772 ]
+			},
+			"properties" : {
+				"farm_id" : "000089",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 45,
+				"farmers_experience" : "15",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "18",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.16115565219604",
+				"latitude" : "7.21195471202171"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1574166602, 7.2162330114 ]
+			},
+			"properties" : {
+				"farm_id" : "000090",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 27,
+				"farmers_experience" : "10",
+				"crops_grown" : "Yam",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "10",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.15697958532528",
+				"latitude" : "7.21614442380349"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1586849681, 7.2137585779 ]
+			},
+			"properties" : {
+				"farm_id" : "000091",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 42,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "18",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.15868496809529",
+				"latitude" : "7.21375857786268"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1597212813, 7.2116598718 ]
+			},
+			"properties" : {
+				"farm_id" : "000092",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 25,
+				"farmers_experience" : "12",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "8",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.15980587647677",
+				"latitude" : "7.21132416801931"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1608902404, 7.2110473888 ]
+			},
+			"properties" : {
+				"farm_id" : "000093",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 48,
+				"farmers_experience" : "18",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "5",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.16089024040275",
+				"latitude" : "7.2110473888442"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1557163575, 7.2116298016 ]
+			},
+			"properties" : {
+				"farm_id" : "000094",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 61,
+				"farmers_experience" : "20",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15572105718085",
+				"latitude" : "7.21140599907561"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.155080671, 7.2115346586 ]
+			},
+			"properties" : {
+				"farm_id" : "000095",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 61,
+				"farmers_experience" : "20",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.1552075637374",
+				"latitude" : "7.21156729646299"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1541365344, 7.211451874 ]
+			},
+			"properties" : {
+				"farm_id" : "000096",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 52,
+				"farmers_experience" : "20",
+				"crops_grown" : "Yam",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15400964168918",
+				"latitude" : "7.21142856122445"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.152655913, 7.2143052693 ]
+			},
+			"properties" : {
+				"farm_id" : "000097",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 30,
+				"farmers_experience" : "4",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "13",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15274520782927",
+				"latitude" : "7.21440784477689"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1527065842, 7.2174903643 ]
+			},
+			"properties" : {
+				"farm_id" : "000098",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 51,
+				"farmers_experience" : "15",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15297446882686",
+				"latitude" : "7.21765821394539"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1531618682, 7.2171739479 ]
+			},
+			"properties" : {
+				"farm_id" : "000099",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 51,
+				"farmers_experience" : "15",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "30",
+				"farm_plot_size" : "200 By 200",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15313836952097",
+				"latitude" : "7.21742106003879"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1541282449, 7.2178477531 ]
+			},
+			"properties" : {
+				"farm_id" : "00100",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 30,
+				"farmers_experience" : "10",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15412824494216",
+				"latitude" : "7.21757732880315"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1544877587, 7.2170877519 ]
+			},
+			"properties" : {
+				"farm_id" : "00101",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 35,
+				"farmers_experience" : "5",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15402718526452",
+				"latitude" : "7.21701315198425"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1532553816, 7.2106165422 ]
+			},
+			"properties" : {
+				"farm_id" : "00102",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 60,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "30",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15310499030222",
+				"latitude" : "7.21075641905695"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1505565494, 7.2105316654 ]
+			},
+			"properties" : {
+				"farm_id" : "00103",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 25,
+				"farmers_experience" : "8",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "20",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15046255482718",
+				"latitude" : "7.21069485509274"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1603767527, 7.2117016648 ]
+			},
+			"properties" : {
+				"farm_id" : "00104",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 40,
+				"farmers_experience" : "15",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "10",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16034855433774",
+				"latitude" : "7.21160841377007"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1591921, 7.2107711015 ]
+			},
+			"properties" : {
+				"farm_id" : "00105",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 40,
+				"farmers_experience" : "15",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "17",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15904170869323",
+				"latitude" : "7.2109389536077"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1593818891, 7.2125594752 ]
+			},
+			"properties" : {
+				"farm_id" : "00106",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Male",
+				"age" : 30,
+				"farmers_experience" : "4",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "7",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.15941948689539",
+				"latitude" : "7.21218647174204"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1585349702, 7.211096781 ]
+			},
+			"properties" : {
+				"farm_id" : "00107",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 27,
+				"farmers_experience" : "6",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "10",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15872295939619",
+				"latitude" : "7.21152107349569"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1579018268, 7.2151499359 ]
+			},
+			"properties" : {
+				"farm_id" : "00108",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 62,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "9",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15750234981981",
+				"latitude" : "7.21464638401246"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1573959233, 7.2147028082 ]
+			},
+			"properties" : {
+				"farm_id" : "00109",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oke Aro",
+				"sex" : "Female",
+				"age" : 62,
+				"farmers_experience" : "20",
+				"crops_grown" : "Yam",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15739592331345",
+				"latitude" : "7.21470280824083"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0456376598, 7.3744572286 ]
+			},
+			"properties" : {
+				"farm_id" : "00110",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 32,
+				"farmers_experience" : "15",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04493740007728",
+				"latitude" : "7.37331065663745"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0430079164, 7.3743031411 ]
+			},
+			"properties" : {
+				"farm_id" : "00111",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 2",
+				"sex" : "Male",
+				"age" : 51,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04297031856069",
+				"latitude" : "7.37338961211874"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0430977321, 7.3736075641 ]
+			},
+			"properties" : {
+				"farm_id" : "00112",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 24,
+				"farmers_experience" : "6",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04306013425331",
+				"latitude" : "7.37331859039215"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0632361142, 7.41055772 ]
+			},
+			"properties" : {
+				"farm_id" : "00113",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 2",
+				"sex" : "Male",
+				"age" : 52,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.06316561823884",
+				"latitude" : "7.41128009296033"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1693455371, 7.258224786 ]
+			},
+			"properties" : {
+				"farm_id" : "00114",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 39,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.16923744329568",
+				"latitude" : "7.25800566867895"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0419848861, 7.3718642911 ]
+			},
+			"properties" : {
+				"farm_id" : "00115",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 30,
+				"farmers_experience" : "8",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "8",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.0420976796161",
+				"latitude" : "7.37202742200883"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0422180691, 7.3738903675 ]
+			},
+			"properties" : {
+				"farm_id" : "00116",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 45,
+				"farmers_experience" : "10",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "8",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04281493478858",
+				"latitude" : "7.37344758539791"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1577665395, 7.2759006974 ]
+			},
+			"properties" : {
+				"farm_id" : "00117",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 50,
+				"farmers_experience" : "10",
+				"crops_grown" : "Pineapple",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "200 By 200",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15776653948251",
+				"latitude" : "7.27573753137337"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1575777883, 7.2757251881 ]
+			},
+			"properties" : {
+				"farm_id" : "00118",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 50,
+				"farmers_experience" : "10",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "200 By 200",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15774462869762",
+				"latitude" : "7.27570187864869"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1553830904, 7.2782386809 ]
+			},
+			"properties" : {
+				"farm_id" : "00119",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 56,
+				"farmers_experience" : "20",
+				"crops_grown" : "Pineapple",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "200 By 200",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15546533569093",
+				"latitude" : "7.27839252230538"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1557177885, 7.2782887659 ]
+			},
+			"properties" : {
+				"farm_id" : "00120",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 56,
+				"farmers_experience" : "20",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "4",
+				"farm_plot_size" : "200 By 200",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.1555979453651",
+				"latitude" : "7.27834004635995"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2408296829, 7.2651057227 ]
+			},
+			"properties" : {
+				"farm_id" : "00121",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure North",
+				"wardname" : "Obaile",
+				"sex" : "Male",
+				"age" : 37,
+				"farmers_experience" : "15",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "15",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.24111166666667",
+				"latitude" : "7.26516166666667"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0532835325, 7.386127022 ]
+			},
+			"properties" : {
+				"farm_id" : "00122",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 45,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "12",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.0532835324863",
+				"latitude" : "7.38612702196493"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0433174694, 7.3734281789 ]
+			},
+			"properties" : {
+				"farm_id" : "00123",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 40,
+				"farmers_experience" : "27",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "13",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "Yes",
+				"longitude" : "5.04316472824185",
+				"latitude" : "7.37330466600482"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0355704933, 7.3677440473 ]
+			},
+			"properties" : {
+				"farm_id" : "00124",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 27,
+				"farmers_experience" : "7",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "5",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.03549294775502",
+				"latitude" : "7.36755761019624"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0357148652, 7.365536977 ]
+			},
+			"properties" : {
+				"farm_id" : "00125",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 27,
+				"farmers_experience" : "7",
+				"crops_grown" : "Kolanut",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "8",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.03577831155599",
+				"latitude" : "7.36557193415108"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0359445239, 7.3673858328 ]
+			},
+			"properties" : {
+				"farm_id" : "00126",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 28,
+				"farmers_experience" : "4",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "5",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.03598212173567",
+				"latitude" : "7.36701062776749"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0357019504, 7.3659733286 ]
+			},
+			"properties" : {
+				"farm_id" : "00127",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 45,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "8",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.03581474391993",
+				"latitude" : "7.36597798952365"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0363647337, 7.3677163255 ]
+			},
+			"properties" : {
+				"farm_id" : "00128",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 63,
+				"farmers_experience" : "40",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "4",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.03639293208063",
+				"latitude" : "7.36720595375691"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1551520066, 7.2774206228 ]
+			},
+			"properties" : {
+				"farm_id" : "00129",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 37,
+				"farmers_experience" : "15",
+				"crops_grown" : "Pineapple",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15522485240216",
+				"latitude" : "7.27732738535453"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1577587394, 7.2785002733 ]
+			},
+			"properties" : {
+				"farm_id" : "00130",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 43,
+				"farmers_experience" : "10",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15785273400247",
+				"latitude" : "7.27851192795732"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1597668463, 7.2774209291 ]
+			},
+			"properties" : {
+				"farm_id" : "00131",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 43,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "18",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15976684631671",
+				"latitude" : "7.27742092906554"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1590948838, 7.2794887127 ]
+			},
+			"properties" : {
+				"farm_id" : "00132",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 45,
+				"farmers_experience" : "20",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "200 By 200",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15931107139844",
+				"latitude" : "7.2795330002996"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1595415162, 7.2799467441 ]
+			},
+			"properties" : {
+				"farm_id" : "00133",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 20,
+				"farmers_experience" : "10",
+				"crops_grown" : "Pineapple",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15915378854628",
+				"latitude" : "7.28036164806856"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1586861373, 7.2781107923 ]
+			},
+			"properties" : {
+				"farm_id" : "00134",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 45,
+				"farmers_experience" : "25",
+				"crops_grown" : "Pineapple",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "6",
+				"farm_plot_size" : "200 By 200",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15876838258521",
+				"latitude" : "7.27824365535647"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1600250625, 7.2768076579 ]
+			},
+			"properties" : {
+				"farm_id" : "00135",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 61,
+				"farmers_experience" : "30",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.15998746465193",
+				"latitude" : "7.27690788820477"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1638867533, 7.2750135667 ]
+			},
+			"properties" : {
+				"farm_id" : "00136",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 61,
+				"farmers_experience" : "30",
+				"crops_grown" : "Pineapple",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16390085251394",
+				"latitude" : "7.27515575452672"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1628891218, 7.27523652 ]
+			},
+			"properties" : {
+				"farm_id" : "00137",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Apomu",
+				"sex" : "Male",
+				"age" : 45,
+				"farmers_experience" : "20",
+				"crops_grown" : "Pineapple",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16288912183694",
+				"latitude" : "7.27523652004119"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.9764290388, 7.3355036633 ]
+			},
+			"properties" : {
+				"farm_id" : "00138",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 43,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "4.97599666368513",
+				"latitude" : "7.33549667136524"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0518841565, 7.3893856167 ]
+			},
+			"properties" : {
+				"farm_id" : "00139",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 56,
+				"farmers_experience" : "30",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "5",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "Yes",
+				"longitude" : "5.05222253698202",
+				"latitude" : "7.38943455401504"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.053064872, 7.3903736701 ]
+			},
+			"properties" : {
+				"farm_id" : "00140",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 45,
+				"farmers_experience" : "18",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Own",
+				"cooperative" : "Yes",
+				"highest_quantity" : "15",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.05275468988496",
+				"latitude" : "7.39032240257198"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.976005249, 7.3349749467 ]
+			},
+			"properties" : {
+				"farm_id" : "00141",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 49,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "12",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "4.97587130671398",
+				"latitude" : "7.33534551752399"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.9771180913, 7.330516146 ]
+			},
+			"properties" : {
+				"farm_id" : "00142",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 49,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "6",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "4.97730843034279",
+				"latitude" : "7.33025744279322"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.9772629154, 7.3290392715 ]
+			},
+			"properties" : {
+				"farm_id" : "00143",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 49,
+				"farmers_experience" : "20",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "6",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "4.97714542220111",
+				"latitude" : "7.32926767671492"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.9975832198, 7.3430490476 ]
+			},
+			"properties" : {
+				"farm_id" : "00144",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 32,
+				"farmers_experience" : "11",
+				"crops_grown" : "Yam",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "4.99748922517081",
+				"latitude" : "7.34308167590317"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.9971398663, 7.3431250811 ]
+			},
+			"properties" : {
+				"farm_id" : "00145",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 32,
+				"farmers_experience" : "11",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "4.99728555789701",
+				"latitude" : "7.3432858919652"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1731147361, 7.2733132692 ]
+			},
+			"properties" : {
+				"farm_id" : "00146",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Ilisa",
+				"sex" : "Male",
+				"age" : 58,
+				"farmers_experience" : "28",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "4",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.17311473609659",
+				"latitude" : "7.27331326920238"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1737844483, 7.2727571366 ]
+			},
+			"properties" : {
+				"farm_id" : "00147",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Ilisa",
+				"sex" : "Male",
+				"age" : 54,
+				"farmers_experience" : "28",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "Yes",
+				"highest_quantity" : "5",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.17378444832775",
+				"latitude" : "7.27275713661728"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1759056124, 7.272280263 ]
+			},
+			"properties" : {
+				"farm_id" : "00148",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Ilisa",
+				"sex" : "Male",
+				"age" : 52,
+				"farmers_experience" : "30",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.17623694333301",
+				"latitude" : "7.27217070777271"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1717023253, 7.2636259363 ]
+			},
+			"properties" : {
+				"farm_id" : "00149",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Ilisa",
+				"sex" : "Male",
+				"age" : 21,
+				"farmers_experience" : "4",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.17184801695955",
+				"latitude" : "7.26374947969627"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0530788589, 7.3863815141 ]
+			},
+			"properties" : {
+				"farm_id" : "00150",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 20,
+				"farmers_experience" : "5",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "14",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.0530671095695",
+				"latitude" : "7.38611119165687"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0349554199, 7.3677838227 ]
+			},
+			"properties" : {
+				"farm_id" : "00151",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 2",
+				"sex" : "Female",
+				"age" : 35,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "60 By 120",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.03495541994168",
+				"latitude" : "7.367783822721"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0353052048, 7.3670718653 ]
+			},
+			"properties" : {
+				"farm_id" : "00152",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 50,
+				"farmers_experience" : "20",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.03579867643993",
+				"latitude" : "7.3669413591257"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0363347434, 7.365799859 ]
+			},
+			"properties" : {
+				"farm_id" : "00153",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 40,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.03593996611067",
+				"latitude" : "7.36579519804582"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0366173284, 7.3634853892 ]
+			},
+			"properties" : {
+				"farm_id" : "00154",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 2",
+				"sex" : "Female",
+				"age" : 45,
+				"farmers_experience" : "15",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "16",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.03661732844799",
+				"latitude" : "7.36348538916575"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0450023813, 7.3739907609 ]
+			},
+			"properties" : {
+				"farm_id" : "00155",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 28,
+				"farmers_experience" : "8",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "8",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.0446358023981",
+				"latitude" : "7.37341514428462"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0518891984, 7.388262172 ]
+			},
+			"properties" : {
+				"farm_id" : "00156",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 2",
+				"sex" : "Male",
+				"age" : 48,
+				"farmers_experience" : "15",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "7",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.05234507215578",
+				"latitude" : "7.38852550199277"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.9760250154, 7.3356989067 ]
+			},
+			"properties" : {
+				"farm_id" : "00157",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 50,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "4.97575008118323",
+				"latitude" : "7.33558004447064"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.9774466901, 7.3296075333 ]
+			},
+			"properties" : {
+				"farm_id" : "00158",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 43,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "18",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "4.97731509764139",
+				"latitude" : "7.32941408824219"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.281689323, 7.1012515539 ]
+			},
+			"properties" : {
+				"farm_id" : "00159",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oda",
+				"sex" : "Male",
+				"age" : 36,
+				"farmers_experience" : "5",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "200 By 200",
+				"water_access" : "No",
+				"storage_access" : "Yes",
+				"longitude" : "5.28134154302257",
+				"latitude" : "7.10085514098626"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2877424055, 7.087282564 ]
+			},
+			"properties" : {
+				"farm_id" : "00160",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oda",
+				"sex" : "Male",
+				"age" : 29,
+				"farmers_experience" : "5",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "200 By 200",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.28726303312859",
+				"latitude" : "7.08732687650017"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2789842688, 7.1036248144 ]
+			},
+			"properties" : {
+				"farm_id" : "00161",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oda",
+				"sex" : "Male",
+				"age" : 29,
+				"farmers_experience" : "5",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "9",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.27948244015127",
+				"latitude" : "7.10351288662824"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2796424884, 7.1027971302 ]
+			},
+			"properties" : {
+				"farm_id" : "00162",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oda",
+				"sex" : "Male",
+				"age" : 29,
+				"farmers_experience" : "10",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.27956964262203",
+				"latitude" : "7.10273883444875"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2774379249, 7.1074760851 ]
+			},
+			"properties" : {
+				"farm_id" : "00163",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oda",
+				"sex" : "Male",
+				"age" : 43,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "5",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.27760946505406",
+				"latitude" : "7.1072009317271"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2778493378, 7.1071578091 ]
+			},
+			"properties" : {
+				"farm_id" : "00164",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oda",
+				"sex" : "Male",
+				"age" : 43,
+				"farmers_experience" : "10",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.27762610064332",
+				"latitude" : "7.10723942240395"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2775556073, 7.1106692581 ]
+			},
+			"properties" : {
+				"farm_id" : "00165",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oda",
+				"sex" : "Female",
+				"age" : 47,
+				"farmers_experience" : "17",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "7",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.27769424929202",
+				"latitude" : "7.11091642799434"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2776615079, 7.111414142 ]
+			},
+			"properties" : {
+				"farm_id" : "00166",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oda",
+				"sex" : "Female",
+				"age" : 44,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.2774852680122",
+				"latitude" : "7.11108535973996"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2760374149, 7.112398659 ]
+			},
+			"properties" : {
+				"farm_id" : "00167",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oda",
+				"sex" : "Male",
+				"age" : 40,
+				"farmers_experience" : "5",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "Yes",
+				"longitude" : "5.27597631840733",
+				"latitude" : "7.11220978459048"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.273619201, 7.1139119652 ]
+			},
+			"properties" : {
+				"farm_id" : "00168",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oda",
+				"sex" : "Male",
+				"age" : 43,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "30",
+				"farm_plot_size" : "200 By 200",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.274300661764",
+				"latitude" : "7.11359484361144"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2758593476, 7.1131777172 ]
+			},
+			"properties" : {
+				"farm_id" : "00169",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oda",
+				"sex" : "Male",
+				"age" : 43,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "200 By 200",
+				"water_access" : "No",
+				"storage_access" : "Yes",
+				"longitude" : "5.27553976604793",
+				"latitude" : "7.11321735748801"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2748354439, 7.1177331594 ]
+			},
+			"properties" : {
+				"farm_id" : "00170",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oda",
+				"sex" : "Female",
+				"age" : 33,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "Yes",
+				"longitude" : "5.2744782644632",
+				"latitude" : "7.11786606950446"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2588465522, 7.1336685973 ]
+			},
+			"properties" : {
+				"farm_id" : "00171",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oda",
+				"sex" : "Male",
+				"age" : 35,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "No",
+				"storage_access" : "Yes",
+				"longitude" : "5.25882070365086",
+				"latitude" : "7.13325122734302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2520610303, 7.1364272301 ]
+			},
+			"properties" : {
+				"farm_id" : "00172",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Oda",
+				"sex" : "Male",
+				"age" : 35,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "7",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.25231011598809",
+				"latitude" : "7.13634095865582"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.046520676, 7.3743622911 ]
+			},
+			"properties" : {
+				"farm_id" : "00173",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 2",
+				"sex" : "Male",
+				"age" : 32,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "9",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.04638908355648",
+				"latitude" : "7.37481905481746"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0469470275, 7.3749049306 ]
+			},
+			"properties" : {
+				"farm_id" : "00174",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 2",
+				"sex" : "Male",
+				"age" : 32,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.04640655859957",
+				"latitude" : "7.37484900039654"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0240304529, 7.3538865508 ]
+			},
+			"properties" : {
+				"farm_id" : "00175",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 35,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "18",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.02391295967877",
+				"latitude" : "7.35429439439895"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.024169256, 7.3549177238 ]
+			},
+			"properties" : {
+				"farm_id" : "00176",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 35,
+				"farmers_experience" : "20",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.02416925603019",
+				"latitude" : "7.35491772379205"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.020165586, 7.3485829873 ]
+			},
+			"properties" : {
+				"farm_id" : "00177",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 38,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "8",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.01995879786338",
+				"latitude" : "7.34896286905051"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.9763031639, 7.3358885583 ]
+			},
+			"properties" : {
+				"farm_id" : "00178",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 53,
+				"farmers_experience" : "25",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "4.976126924061",
+				"latitude" : "7.33574872041729"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1743687701, 7.2724880069 ]
+			},
+			"properties" : {
+				"farm_id" : "00179",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Ilisa",
+				"sex" : "Female",
+				"age" : 40,
+				"farmers_experience" : "10",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.1743006239756",
+				"latitude" : "7.27252530230206"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1737469568, 7.2719008727 ]
+			},
+			"properties" : {
+				"farm_id" : "00180",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Ilisa",
+				"sex" : "Male",
+				"age" : 58,
+				"farmers_experience" : "15",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.1737469567972",
+				"latitude" : "7.27190087271186"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1740208869, 7.2716511765 ]
+			},
+			"properties" : {
+				"farm_id" : "00181",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Ilisa",
+				"sex" : "Male",
+				"age" : 58,
+				"farmers_experience" : "15",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "7",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.1739597903789",
+				"latitude" : "7.27175373896193"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0468629189, 7.3747308271 ]
+			},
+			"properties" : {
+				"farm_id" : "00182",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 33,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04665143107549",
+				"latitude" : "7.37473082708765"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.046522465, 7.3745649689 ]
+			},
+			"properties" : {
+				"farm_id" : "00183",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 33,
+				"farmers_experience" : "10",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "16",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04634857501865",
+				"latitude" : "7.37483296798766"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0444124295, 7.3742431808 ]
+			},
+			"properties" : {
+				"farm_id" : "00184",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 40,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "18",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04453932221223",
+				"latitude" : "7.37395886833525"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.044916674, 7.3744216293 ]
+			},
+			"properties" : {
+				"farm_id" : "00185",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 40,
+				"farmers_experience" : "20",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "7",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.04465818891652",
+				"latitude" : "7.37404409974242"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0443048746, 7.3738610594 ]
+			},
+			"properties" : {
+				"farm_id" : "00186",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 30,
+				"farmers_experience" : "8",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "8",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.04430487457868",
+				"latitude" : "7.37386105944692"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.046479545, 7.3832899729 ]
+			},
+			"properties" : {
+				"farm_id" : "00187",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 68,
+				"farmers_experience" : "45",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "200 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.0461952113682",
+				"latitude" : "7.38394247916151"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0393225778, 7.3909061562 ]
+			},
+			"properties" : {
+				"farm_id" : "00188",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 32,
+				"farmers_experience" : "5",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.0387844587419",
+				"latitude" : "7.39074769293082"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0392183283, 7.3911803552 ]
+			},
+			"properties" : {
+				"farm_id" : "00189",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 33,
+				"farmers_experience" : "5",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "5",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.03879535262985",
+				"latitude" : "7.39077953663109"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0384744556, 7.3897740005 ]
+			},
+			"properties" : {
+				"farm_id" : "00190",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 40,
+				"farmers_experience" : "15",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.03845330679521",
+				"latitude" : "7.38990449991036"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0381697073, 7.3896255709 ]
+			},
+			"properties" : {
+				"farm_id" : "00191",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 35,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.03811801022669",
+				"latitude" : "7.38981898978723"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.9858209309, 7.3462620989 ]
+			},
+			"properties" : {
+				"farm_id" : "00192",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 55,
+				"farmers_experience" : "25",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "6",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "4.98562589211686",
+				"latitude" : "7.34594514045906"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1699952242, 7.2756531273 ]
+			},
+			"properties" : {
+				"farm_id" : "00193",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Male",
+				"age" : 29,
+				"farmers_experience" : "15",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16992707812525",
+				"latitude" : "7.27582794806005"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1704458576, 7.2760650857 ]
+			},
+			"properties" : {
+				"farm_id" : "00194",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Male",
+				"age" : 29,
+				"farmers_experience" : "15",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "20",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.17030016600186",
+				"latitude" : "7.27605809290773"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1692632313, 7.2773929962 ]
+			},
+			"properties" : {
+				"farm_id" : "00195",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Male",
+				"age" : 41,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "10",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16928907978925",
+				"latitude" : "7.2774302911876"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1697045807, 7.2774365745 ]
+			},
+			"properties" : {
+				"farm_id" : "00196",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Male",
+				"age" : 41,
+				"farmers_experience" : "20",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16948134359728",
+				"latitude" : "7.27750417161123"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1686197924, 7.2753454519 ]
+			},
+			"properties" : {
+				"farm_id" : "00197",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Male",
+				"age" : 51,
+				"farmers_experience" : "30",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "8",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.1686174425524",
+				"latitude" : "7.27555290604013"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1705509457, 7.2780551609 ]
+			},
+			"properties" : {
+				"farm_id" : "00198",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Male",
+				"age" : 35,
+				"farmers_experience" : "2",
+				"crops_grown" : "Maize",
+				"farm_type" : "Subsistence",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "0",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.17018201693",
+				"latitude" : "7.27785003883902"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1703240263, 7.2784008901 ]
+			},
+			"properties" : {
+				"farm_id" : "00199",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Male",
+				"age" : 35,
+				"farmers_experience" : "2",
+				"crops_grown" : "Yam",
+				"farm_type" : "Subsistence",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.17014073686241",
+				"latitude" : "7.27798598429729"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0447790877, 7.3833728941 ]
+			},
+			"properties" : {
+				"farm_id" : "00200",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 38,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "10",
+				"farm_plot_size" : "120 By 120",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.04484723377683",
+				"latitude" : "7.38352669924562"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0480022899, 7.3861415741 ]
+			},
+			"properties" : {
+				"farm_id" : "00201",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 38,
+				"farmers_experience" : "20",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "15",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.04825137560179",
+				"latitude" : "7.38596446621611"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0455654394, 7.3827553237 ]
+			},
+			"properties" : {
+				"farm_id" : "00202",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 65,
+				"farmers_experience" : "30",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "4",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.04556543943727",
+				"latitude" : "7.38275532373315"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0384757781, 7.3912913667 ]
+			},
+			"properties" : {
+				"farm_id" : "00203",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 39,
+				"farmers_experience" : "16",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "4",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.03870371495031",
+				"latitude" : "7.39128437569176"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1680157332, 7.2806098288 ]
+			},
+			"properties" : {
+				"farm_id" : "00204",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Male",
+				"age" : 42,
+				"farmers_experience" : "5",
+				"crops_grown" : "Yam",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.16785829230362",
+				"latitude" : "7.28044433358736"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0380396927, 7.3916484268 ]
+			},
+			"properties" : {
+				"farm_id" : "00205",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 30,
+				"farmers_experience" : "15",
+				"crops_grown" : "Kolanut",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.03803969270304",
+				"latitude" : "7.39164842679104"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0382605492, 7.3892037669 ]
+			},
+			"properties" : {
+				"farm_id" : "00206",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 55,
+				"farmers_experience" : "30",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "3",
+				"farm_plot_size" : "60 By 120",
+				"water_access" : "Sometimes",
+				"storage_access" : "Yes",
+				"longitude" : "5.0383004969025",
+				"latitude" : "7.38907093694015"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0383004642, 7.3885620424 ]
+			},
+			"properties" : {
+				"farm_id" : "00207",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 55,
+				"farmers_experience" : "30",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.03820176984969",
+				"latitude" : "7.38879507768"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0380220035, 7.3888718301 ]
+			},
+			"properties" : {
+				"farm_id" : "00208",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Female",
+				"age" : 63,
+				"farmers_experience" : "40",
+				"crops_grown" : "Cocoa",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "5",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "Yes",
+				"longitude" : "5.03813479700402",
+				"latitude" : "7.38890911576064"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1684845412, 7.2759946746 ]
+			},
+			"properties" : {
+				"farm_id" : "00209",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Female",
+				"age" : 55,
+				"farmers_experience" : "25",
+				"crops_grown" : "Yam",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "Yes",
+				"longitude" : "5.16837644746067",
+				"latitude" : "7.27583383956796"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1675924727, 7.2752888666 ]
+			},
+			"properties" : {
+				"farm_id" : "00210",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Female",
+				"age" : 55,
+				"farmers_experience" : "25",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "Yes",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.16760187213665",
+				"latitude" : "7.27529119751334"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1707906142, 7.2778379523 ]
+			},
+			"properties" : {
+				"farm_id" : "00211",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Male",
+				"age" : 60,
+				"farmers_experience" : "30",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Subsistence",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.17058382609276",
+				"latitude" : "7.27776569334282"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1705304697, 7.2776127565 ]
+			},
+			"properties" : {
+				"farm_id" : "00212",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Male",
+				"age" : 60,
+				"farmers_experience" : "30",
+				"crops_grown" : "Yam",
+				"farm_type" : "Subsistence",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.17045997377252",
+				"latitude" : "7.27771531760117"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.167408918, 7.2801027469 ]
+			},
+			"properties" : {
+				"farm_id" : "00213",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Male",
+				"age" : 62,
+				"farmers_experience" : "10",
+				"crops_grown" : "Yam",
+				"farm_type" : "Subsistence",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : null,
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Sometimes",
+				"storage_access" : "No",
+				"longitude" : "5.16742771692225",
+				"latitude" : "7.27998153897195"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.164862621, 7.2750177155 ]
+			},
+			"properties" : {
+				"farm_id" : "00214",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Ilisa",
+				"sex" : "Male",
+				"age" : 34,
+				"farmers_experience" : "14",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Subsistence",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.1648391223253",
+				"latitude" : "7.27492214661983"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1645414108, 7.2749808699 ]
+			},
+			"properties" : {
+				"farm_id" : "00215",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Male",
+				"age" : 34,
+				"farmers_experience" : "5",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16457665880432",
+				"latitude" : "7.27490161770517"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0440059673, 7.3837410818 ]
+			},
+			"properties" : {
+				"farm_id" : "00216",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 38,
+				"farmers_experience" : "20",
+				"crops_grown" : "Vegetables",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "1",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.04402946591433",
+				"latitude" : "7.38377370712591"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0458835499, 7.3830478216 ]
+			},
+			"properties" : {
+				"farm_id" : "00217",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 65,
+				"farmers_experience" : "30",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "4",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.04578720543336",
+				"latitude" : "7.38311540271529"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.0388088621, 7.3915593349 ]
+			},
+			"properties" : {
+				"farm_id" : "00218",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Ifedore",
+				"wardname" : "Igbaraoke 1",
+				"sex" : "Male",
+				"age" : 39,
+				"farmers_experience" : "16",
+				"crops_grown" : "Plantain",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Own",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "50 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "Yes",
+				"longitude" : "5.03869136885368",
+				"latitude" : "7.39137989881956"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.1636062412, 7.2758602217 ]
+			},
+			"properties" : {
+				"farm_id" : "00219",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure South",
+				"wardname" : "Irowo",
+				"sex" : "Male",
+				"age" : 40,
+				"farmers_experience" : "20",
+				"crops_grown" : "Maize",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Continous",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "4",
+				"farm_plot_size" : "100 By 100",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.16360624124379",
+				"latitude" : "7.27586022169002"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2423863748, 7.266728298 ]
+			},
+			"properties" : {
+				"farm_id" : "00220",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure North",
+				"wardname" : "Obaile",
+				"sex" : "Male",
+				"age" : 36,
+				"farmers_experience" : "7",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Shifting",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "60 By 120",
+				"water_access" : "Yes",
+				"storage_access" : "No",
+				"longitude" : "5.24223833333333",
+				"latitude" : "7.26669333333333"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.2422487163, 7.2664011662 ]
+			},
+			"properties" : {
+				"farm_id" : "00221",
+				"statecode" : "On",
+				"statename" : "Ondo",
+				"lganame" : "Akure North",
+				"wardname" : "Obaile",
+				"sex" : "Female",
+				"age" : 25,
+				"farmers_experience" : "2",
+				"crops_grown" : "Cassava",
+				"farm_type" : "Commercial",
+				"cultivation_type" : "Mixed",
+				"ownership_type" : "Rentage",
+				"cooperative" : "No",
+				"highest_quantity" : "2",
+				"farm_plot_size" : "60 By 120",
+				"water_access" : "No",
+				"storage_access" : "No",
+				"longitude" : "5.24224871626083",
+				"latitude" : "7.26656666666667"
+			}
+		}
+	]
+}
