@@ -37,9 +37,31 @@ unclean <- unclean %>%
   mutate(uuid = gsub(" ","-",uuid))
 
 
+## Step 5: Change the case of text attributes to Full title case
 
-
-
+unclean <- unclean %>% 
+  mutate(lganame = str_to_title(lganame)) %>% 
+  mutate(wardname = str_to_title(wardname)) %>% 
+  mutate(sex = str_to_title(sex)) %>% 
+  mutate(farm_type = str_to_title(farm_type)) %>% 
+  mutate(crop_type = str_to_title(crop_type)) %>% 
+  mutate(mode_of_acquisition = str_to_title(mode_of_acquisition)) %>% 
+  mutate(farm_cooperative = str_to_title(farm_cooperative)) %>% 
+  mutate(means_of_buying_and_selling = str_to_title(means_of_buying_and_selling)) %>% 
+  mutate(access_to_internet = str_to_title(access_to_internet)) %>% 
+  mutate(access_to_storage = str_to_title(access_to_storage)) %>% 
+  mutate(access_to_water = str_to_title(access_to_water)) %>% 
+  mutate(market_produce_sold_at = str_to_title(market_produce_sold_at)) %>% 
+  mutate(data_collector = str_to_title(data_collector)) %>% 
+  mutate(living_standard = str_to_title(living_standard)) %>% 
+  mutate(yield_price = str_to_title(yield_price)) %>% 
+  mutate(need_help_marketing_product = str_to_title(need_help_marketing_product)) %>% 
+  mutate(farm_seed = str_to_title(farm_seed)) %>% 
+  mutate(farm_seedling = str_to_title(farm_seedling)) %>% 
+  mutate(farm_category = str_to_title(farm_category)) %>% 
+  mutate(fertilizer_practice = str_to_title(fertilizer_practice)) %>% 
+  mutate(`fertilizer_yes/fertilizer-type` = str_to_title(`fertilizer_yes/fertilizer-type`)) %>% 
+  mutate(farm_sense = str_to_title(farm_sense))
 
 
 
