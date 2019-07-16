@@ -25,6 +25,16 @@ unclean <- unclean %>%
          farm_produce_sold_at = `sell-produce`, market_produce_sold_at = market_sell_buy, need_help_marketing_product = `marketing-product`,
          yield_price = `yield-price`, living_standard = `standard-living`, uuid = `_uuid`,data_collector = `data-collector`, farm_sense = `farm-sense`)
 
+#Step 4: Identify special characters that needs reformating and do that for all of columns
+str(unclean)
+view(unclean)
+
+unclean <- unclean %>% 
+  mutate_all(~str_replace_all(.,"_", " ")) %>% 
+  mutate_all(~str_replace_all(.,"-"," ")) %>% 
+  mutate(size_of_farm_plot = gsub("unit ","",size_of_farm_plot)) %>% 
+  mutate(size_of_farm_plot = gsub(" ", " X ", size_of_farm_plot)) %>% 
+  mutate(uuid = gsub(" ","-",uuid))
 
 
 
