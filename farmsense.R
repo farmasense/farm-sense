@@ -63,6 +63,10 @@ unclean <- unclean %>%
   mutate(`fertilizer_yes/fertilizer-type` = str_to_title(`fertilizer_yes/fertilizer-type`)) %>% 
   mutate(farm_sense = str_to_title(farm_sense))
 
+## Step 6: Checks for anomally -  There is no statename
+unclean <- unclean %>% 
+  mutate(statecode = statename) %>% 
+  mutate(statename = ifelse(statename == "ON", "Ondo", statename))
 
 
 
