@@ -61,22 +61,26 @@ unclean <- unclean %>%
   mutate(farm_category = str_to_title(farm_category)) %>% 
   mutate(fertilizer_practice = str_to_title(fertilizer_practice)) %>% 
   mutate(`fertilizer_yes/fertilizer-type` = str_to_title(`fertilizer_yes/fertilizer-type`)) %>% 
-  mutate(farm_sense = str_to_title(farm_sense))
+  mutate(farm_sense = str_to_title(farm_sense)) %>% 
+  mutate(farm_produce_sold_at = str_to_title(farm_produce_sold_at))
 
 ## Step 6: Checks for anomally -  There is no statename
 unclean <- unclean %>% 
   mutate(statecode = statename) %>% 
   mutate(statename = ifelse(statename == "ON", "Ondo", statename))
 
+##Converting the dataset from character to the appropriate data type 
+unclean$age <- as.numeric(unclean$age)
 
+## Creating categorical variables of the age, thereby creaing an age group.
 
-
-
-
-
-
-
-
+unclean %>% 
+  mutate(age_range = ifelse(18 <= age & age <= 28, "18 - 28", age)) %>% 
+  mutate(age_range = ifelse(29 <= age & age <= 38, "29 - 38", age_range)) %>% 
+  mutate(age_range = ifelse(39 <= age & age <= 48, "39 - 48", age_range)) %>% 
+  mutate(age_range = ifelse(49 <= age & age <= 58, "49 - 58", age_range)) %>% 
+  mutate(age_range = ifelse(59 <= age & age <= 69, "49 - 69", age_range)) %>%
+  glimpse()
 
 
 
