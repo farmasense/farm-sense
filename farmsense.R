@@ -126,7 +126,9 @@ farmsense$farm_seed <- as.factor(farmsense$farm_seed)
 ggplot(farmsense, aes(age_range))+
   geom_bar(fill = "dark green")
 
-
+## Uisng data explorer to pictographically explore the data types
+library(DataExplorer)
+plot_str(farmsense)
 
 
 
