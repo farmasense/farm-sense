@@ -74,13 +74,18 @@ unclean$age <- as.numeric(unclean$age)
 
 ## Creating categorical variables of the age, thereby creaing an age group.
 
-unclean %>% 
+clean <- unclean %>% 
   mutate(age_range = ifelse(18 <= age & age <= 28, "18 - 28", age)) %>% 
   mutate(age_range = ifelse(29 <= age & age <= 38, "29 - 38", age_range)) %>% 
   mutate(age_range = ifelse(39 <= age & age <= 48, "39 - 48", age_range)) %>% 
   mutate(age_range = ifelse(49 <= age & age <= 58, "49 - 58", age_range)) %>% 
   mutate(age_range = ifelse(59 <= age & age <= 69, "49 - 69", age_range)) %>%
   glimpse()
+
+
+##TO find NA's
+nrow(unclean[!complete.cases(unclean),])
+
 
 
 
