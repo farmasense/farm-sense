@@ -3,7 +3,8 @@
 library(tidyverse)
 library(readr)
 library(stringr)
-
+library(ggplot2)
+library(gridExtra)
       #step 2: Import the dataset in R
 setwd("C:/Users/LENOVO/Documents/Data science project")
 unclean <- read_csv("Data Analysis/farm-sense.csv")
@@ -85,6 +86,10 @@ clean <- unclean %>%
 
 ##TO find NA's
 nrow(unclean[!complete.cases(unclean),])
+
+##Descriptive statistics
+
+
 
 
 
