@@ -87,19 +87,38 @@ clean <- unclean %>%
 ##TO find NA's
 nrow(unclean[!complete.cases(unclean),])
 
+## Converting the data into the right data types
+str(farmsense)
+
+
 ##Descriptive statistics
 
+#Renaming the dataset
+farmsense <- clean
 
+colnames(farmsense)
 
+ggplot(farmsense, aes(age_range))
 
-
-
-
-
-
-
-
-
+farmsense$age_range <- as.factor(farmsense$age_range)
+farmsense$data_collector <- as.factor(farmsense$data_collector)
+farmsense$farm_sense <- as.factor(farmsense$farm_sense)
+farmsense$living_standard <- as.factor(farmsense$living_standard)
+farmsense$yield_price <- as.factor(farmsense$yield_price)
+farmsense$need_help_marketing_product <- as.factor(farmsense$need_help_marketing_product)
+farmsense$market_produce_sold_at <- as.factor(farmsense$market_produce_sold_at)
+farmsense$farm_produce_sold_at <- as.factor(farmsense$farm_produce_sold_at)
+farmsense$access_to_internet <- as.factor(farmsense$access_to_internet)
+farmsense$access_to_storage <- as.factor(farmsense$access_to_storage)
+farmsense$access_to_water <- as.factor(farmsense$access_to_water)
+farmsense$lganame <- as.factor(farmsense$lganame)
+farmsense$wardname <- as.factor(farmsense$wardname)
+farmsense$sex <- as.factor(farmsense$sex)
+farmsense$farm_type <- as.factor(farmsense$farm_type)
+farmsense$crop_type <- as.factor(farmsense$crop_type)
+farmsense$mode_of_acquisition <- as.factor(farmsense$mode_of_acquisition)
+farmsense$farm_category <- as.factor(farmsense$farm_category)
+farmsense$fertilizer_practice <- as.factor(farmsense$fertilizer_practice)
 
 
 
