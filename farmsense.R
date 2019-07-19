@@ -130,6 +130,18 @@ ggplot(farmsense, aes(age_range))+
 library(DataExplorer)
 plot_str(farmsense)
 
+## Exploratory analysis and Descriptive statistics
+
+## Bar plots of some categorical variables
+attach(farmsense)
+ggplot(farmsense, aes(x = sex)) + 
+  ggtitle("Gender Distribution") +
+  xlab("Gender") +
+  geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
+  geom_text(stat = "count", aes(label = ..count.., y = ..count..)) +
+  ylab("Farmers") +
+  coord_flip() +
+  theme_minimal()
 
 
 
