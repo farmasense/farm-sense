@@ -91,14 +91,10 @@ nrow(unclean[!complete.cases(unclean),])
 str(farmsense)
 
 
-##Descriptive statistics
-
 #Renaming the dataset
 farmsense <- clean
 
 colnames(farmsense)
-
-ggplot(farmsense, aes(age_range))
 
 farmsense$age_range <- as.factor(farmsense$age_range)
 farmsense$data_collector <- as.factor(farmsense$data_collector)
@@ -124,6 +120,11 @@ farmsense$farm_seed <- as.factor(farmsense$farm_seed)
 
 
 
+
+##Descriptive statistics
+
+ggplot(farmsense, aes(age_range))+
+  geom_bar(fill = "dark green")
 
 
 
