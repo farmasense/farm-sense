@@ -119,8 +119,8 @@ farmsense$crop_type <- as.factor(farmsense$crop_type)
 farmsense$mode_of_acquisition <- as.factor(farmsense$mode_of_acquisition)
 farmsense$farm_category <- as.factor(farmsense$farm_category)
 farmsense$fertilizer_practice <- as.factor(farmsense$fertilizer_practice)
-
-
+farmsense$farm_seedling <- as.factor(farmsense$farm_seedling)
+farmsense$farm_seed <- as.factor(farmsense$farm_seed)
 
 
 
