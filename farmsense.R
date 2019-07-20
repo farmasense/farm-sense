@@ -144,6 +144,80 @@ p4 <- ggplot(farmsense, aes(x = sex)) +
   theme_minimal()
 
 ##Member of a cooperative
+p3 <- ggplot(farmsense, aes(x = farm_cooperative)) +
+  ggtitle("Member of Farmers Cooperative") + 
+  xlab("Gender") +
+  geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
+  geom_text(stat = "count", aes(label = ..count.., y = ..count..)) +
+  ylab("Farmers") + 
+  coord_flip() + 
+  theme_minimal()
+
+p2 <- ggplot(farmsense, aes(x = access_to_internet)) + 
+  ggtitle("Access to Smart Phone") + 
+  xlab("Smartphone") + 
+  geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") + 
+  geom_text(stat = "count", aes(label = ..count.., y = ..count..)) +
+  ylab("Farmers") + 
+  coord_flip() +
+  theme_minimal()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
