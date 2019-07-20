@@ -134,7 +134,7 @@ plot_str(farmsense)
 
 ## Bar plots of some categorical variables
 attach(farmsense)
-ggplot(farmsense, aes(x = sex)) + 
+p4 <- ggplot(farmsense, aes(x = sex)) + 
   ggtitle("Gender Distribution") +
   xlab("Gender") +
   geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
@@ -142,6 +142,9 @@ ggplot(farmsense, aes(x = sex)) +
   ylab("Farmers") +
   coord_flip() +
   theme_minimal()
+
+##Member of a cooperative
+
 
 
 
