@@ -87,6 +87,13 @@ clean <- unclean %>%
 ##TO find NA's
 nrow(unclean[!complete.cases(unclean),])
 
+##Access to storage, has no value
+t(!is.na(farmsense$access_to_storage))
+
+View(farmsense[85,])
+farmsense[!complete.cases(farmsense),]
+farmsense[is.na(farmsense$access_to_storage), "access_to_storage"] <- "No" 
+
 ## Converting the data into the right data types
 str(farmsense)
 
@@ -175,14 +182,15 @@ p1 <- ggplot(farmsense, aes(x = access_to_water)) +
 ## Plot p1,p2,p3,p4 graph as one graph
 grid.arrange(p1,p2,p3,p4, ncol = 2)
 
-
-
-
-
- 
-
-
-
+## Access to storage facilities
+ggplot(farmsense, aes(x = access_to_storage)) +
+  ggtitle("Access to Storage Facilities") +
+  xlab("Storage Facilities") +
+  geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
+  geom_text(stat = "count", aes(label = ..count.., y = ..count..)) +
+  ylab("Farmers") +
+  coord_flip() +
+  theme_minimal()
 
 
 
