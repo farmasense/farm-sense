@@ -20,16 +20,19 @@ The goal of this project was to establish a web platform that provides access to
 
 # Results and Analysis
 ![](images/plot1.png)
+
 *plot 1: Gender,Cooperative,Smartphone, and Access to water*
 
 In plot 1, out of the 221 farmers, only 52 of the farmers are female. This shows a progressive increase of gender diversity in Agriculture. Only 29 of the total farmers are part of any society or cooperation. The larger population believes that farmers’ cooperative societies are a huge waste of time and very expensive as their needs or complains are not heard or changes made to them. We also found that a large population of the farmers do not have access to storage facilities, which expose their product to farm disease. While for the ones that own storage facilities, such facilities are not up to standard. We also, wanted to understand how technology can be of help to these farmer. But, we realized that 188 of the 221 farmers do not have access to a smartphone. That means, any solution that would be provided for smallholders farmer will be offline driven.
 
 ![](images/plot3.png)
+
 *plot 2: Farms ownership, crop grown, cultivation and type of farming*
 
 In plot 2, 214 smallholder farmers of 221 are commercial farmers. That is, they farm with the intention to sell and make a living from the product sold. More so, 80% of these smallholder farmer undergo continuous farming with majority of the farmland on rental and lease. Will also mention the fact that these smallholder farmer engage in labour intensive farming and don’t have access to mechanized tool to farm.
 
 ![](images/plot4.png)
+
 *plot 3, age range distribution*
 
 plot 3, shows the age distribution of farmers. 157 farmers are between the age of 18 and 48. This shows that youth are getting to understand the role they play in agricultural and food for the nation.
