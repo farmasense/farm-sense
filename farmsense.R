@@ -236,7 +236,14 @@ p7 <- ggplot(farmsense, aes(x = living_standard)) +
   coord_flip() + 
   theme_minimal()
 
-
+## Not satisfied with price
+p8 <- ggplot(farmsense, aes(x = yield_price)) +
+  ggtitle("Not Satisfied With Price") + 
+  geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
+  geom_text(stat = "count", aes(label = ..count.., y = ..count..)) +
+  ylab("Farmers") +
+  coord_flip() +
+  theme_minimal()
 
 
 
