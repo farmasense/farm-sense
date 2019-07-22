@@ -162,6 +162,15 @@ p2 <- ggplot(farmsense, aes(x = access_to_internet)) +
   coord_flip() +
   theme_minimal()
 
+## Access to Water
+p1 <- ggplot(farmsense, aes(x = access_to_water)) + 
+  ggtitle("Access to Smart Phone") +
+  xlab("Access to Water") +
+  geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
+  geom_text(stat = "count", aes(label = ..count.., y = ..count..)) +
+  ylab("Farmers") + 
+  coord_flip() +
+  theme_minimal()
 
 
 
@@ -169,8 +178,7 @@ p2 <- ggplot(farmsense, aes(x = access_to_internet)) +
 
 
 
-
-
+ 
 
 
 
