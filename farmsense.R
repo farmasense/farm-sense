@@ -124,6 +124,7 @@ farmsense$farm_category <- as.factor(farmsense$farm_category)
 farmsense$fertilizer_practice <- as.factor(farmsense$fertilizer_practice)
 farmsense$farm_seedling <- as.factor(farmsense$farm_seedling)
 farmsense$farm_seed <- as.factor(farmsense$farm_seed)
+farmsense$farming_experience <- as.numeric(farmsense$farming_experience)
 
 
 
@@ -192,6 +193,14 @@ ggplot(farmsense, aes(x = access_to_storage)) +
   coord_flip() +
   theme_minimal()
 
+## Statistical summary
+summary(farmsense$farming_experience) ## There is an outlier with expereince of 77
+
+Mode <- function(x){
+  ux <- unique(x)
+  ux[which.max(tabulate(match(x, ux)))]
+}
+Mode(age)
 
 
 
