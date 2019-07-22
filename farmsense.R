@@ -172,7 +172,8 @@ p1 <- ggplot(farmsense, aes(x = access_to_water)) +
   coord_flip() +
   theme_minimal()
 
-
+## Plot p1,p2,p3,p4 graph as one graph
+grid.arrange(p1,p2,p3,p4, ncol = 2)
 
 
 
