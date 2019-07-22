@@ -246,8 +246,34 @@ p8 <- ggplot(farmsense, aes(x = yield_price)) +
   theme_minimal()
 
 
+## Crop types, farm category, mode of acquisition
+
+p16 <- ggplot(farmsense, aes(x = farm_type)) + ggtitle("Type of Farming") +
+  xlab("")+
+  geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
+  ylab("Farmers") + coord_flip() + theme_minimal() + 
+  geom_text(stat = "count", aes(label = ..count.., y = ..count..))
+
+p17 <- ggplot(farmsense, aes(x = farm_category)) + ggtitle("Type of Cultivation") +
+  xlab("") +
+  geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
+  ylab("Farmers") + coord_flip() + theme_minimal() + 
+  geom_text(stat = "count", aes(label = ..count.., y = ..count..))
+
+p18 <- ggplot(farmsense, aes(x = mode_of_acquisition)) + ggtitle("Type of Ownership") +
+  xlab("") + 
+  geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
+  ylab("Farmers") + coord_flip() + theme_minimal() + 
+  geom_text(stat = "count", aes(label = ..count.., y = ..count..))
+
+p19 <- ggplot(farmsense, aes(x = crop_type)) + ggtitle("Type of Crop Grown") +
+  xlab("") + 
+  geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
+  ylab("Farmers") + coord_flip() + theme_minimal() + 
+  geom_text(stat = "count", aes(label = ..count.., y = ..count..))
 
 
+grid.arrange(p16, p17, p18, p19, ncol = 2)
 
 
 
