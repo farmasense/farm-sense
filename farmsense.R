@@ -94,6 +94,11 @@ View(farmsense[85,])
 farmsense[!complete.cases(farmsense),]
 farmsense[is.na(farmsense$access_to_storage), "access_to_storage"] <- "No" 
 
+## Use fertilzers, has NA's value
+t(!is.na(farmsense$fertilizer_practice))
+farmsense[is.na(farmsense$fertilizer_practice), "fertilizer_practice"] <- "No"
+View(farmsense[c(60,77,85),])
+
 ## Converting the data into the right data types
 str(farmsense)
 
@@ -203,7 +208,15 @@ Mode <- function(x){
 Mode(age)
 
 
-
+ ## Use of fertilizers
+ggplot(farmsense, aes(x = fertilizer_practice)) +
+  ggtitle("Use of fertilizer") + 
+  xlab("Fertilizer") +
+  geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
+  geom_text(stat = "count", aes(label = ..count.., y = ..count..)) +
+  ylab("Farmers") + 
+  coord_flip() + 
+  theme_minimal()
 
 
 
