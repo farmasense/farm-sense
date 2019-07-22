@@ -7,10 +7,12 @@ Ondo State is one of the foremost states in agriculture in Nigeria. The state is
 This project seeks to develop a platform that will be a repository for farmer’s data which will be analysed and visualized regularly. The platform can then be used as a recommendation tool to aid decision making, project the activities of farmers, and tell their stories.
 
 # Goals and Objectives
-*Goal*:
+**Goal**:
+
 The goal of this project was to establish a web platform that provides access to open data and information on farms and farmers’ activities in Akure (North / South) and Ifedore LGAs of Ondo State.
 
-*Objectives8:
+**Objectives**:
+
 - Increase access of the government and other agricultural stakeholders to open data on farms and farmers information in Akure (North / South) and Okitipupa LGAs of Ondo State.
 - Reduce frustration in accessing data on farms and farmers in Akure by the government and agricultural stakeholders for planning and decision making purposes.
 - Improve access to standardized educational resources for student, innovators, and youths who have little or no knowledge of agriculture and farming.
