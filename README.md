@@ -29,5 +29,7 @@ In plot 1, out of the 221 farmers, only 52 of the farmers are female. This shows
 
 In plot 2, 214 smallholder farmers of 221 are commercial farmers. That is, they farm with the intention to sell and make a living from the product sold. More so, 80% of these smallholder farmer undergo continuous farming with majority of the farmland on rental and lease. Will also mention the fact that these smallholder farmer engage in labour intensive farming and don’t have access to mechanized tool to farm.
 
+![](images/plot4.png)
+*plot 3, age range distribution*
 
-
+plot 3, shows the age distribution of farmers. 157 farmers are between the age of 18 and 48. This shows that youth are getting to understand the role they play in agricultural and food for the nation.
