@@ -209,7 +209,7 @@ Mode(age)
 
 
  ## Use of fertilizers
-ggplot(farmsense, aes(x = fertilizer_practice)) +
+p5 <- ggplot(farmsense, aes(x = fertilizer_practice)) +
   ggtitle("Use of fertilizer") + 
   xlab("Fertilizer") +
   geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
@@ -217,6 +217,15 @@ ggplot(farmsense, aes(x = fertilizer_practice)) +
   ylab("Farmers") + 
   coord_flip() + 
   theme_minimal()
+
+p6 <- ggplot(farmsense, aes(x = `fertilizer_yes/fertilizer-type`)) + 
+  ggtitle("Fertilizers Types") + 
+  geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
+  geom_text(stat = "count", aes(label = ..count.., y = ..count..)) +
+  ylab("Farmers") +
+  coord_flip() + 
+  theme_minimal()
+grid.arrange(p5,p6, ncol = 2)
 
 
 
