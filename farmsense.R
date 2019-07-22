@@ -227,7 +227,14 @@ p6 <- ggplot(farmsense, aes(x = `fertilizer_yes/fertilizer-type`)) +
   theme_minimal()
 grid.arrange(p5,p6, ncol = 2)
 
-
+## Descriptive statistics for standard of living
+p7 <- ggplot(farmsense, aes(x = living_standard)) +
+  ggtitle("The farmers standard of living rely") +
+  geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
+  geom_text(stat = "count", aes(label = ..count.., y = ..count..)) +
+  ylab("Farmers") +
+  coord_flip() + 
+  theme_minimal()
 
 
 
