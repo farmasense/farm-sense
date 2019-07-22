@@ -177,7 +177,7 @@ p2 <- ggplot(farmsense, aes(x = access_to_internet)) +
 
 ## Access to Water
 p1 <- ggplot(farmsense, aes(x = access_to_water)) + 
-  ggtitle("Access to Smart Phone") +
+  ggtitle("Access to Water") +
   xlab("Access to Water") +
   geom_bar(aes(y = (..count..)), width = 0.5, fill = "dark green") +
   geom_text(stat = "count", aes(label = ..count.., y = ..count..)) +

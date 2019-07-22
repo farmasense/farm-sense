@@ -18,3 +18,8 @@ The goal of this project was to establish a web platform that provides access to
 - Improve access to standardized educational resources for student, innovators, and youths who have little or no knowledge of agriculture and farming.
 - Improve the quality of road data and point of interest (POI) to help facilitate decision making.
 
+# Results and Analysis
+![](images/plot1.png)
+*plot 1: Gender,Cooperative,Smartphone, and Access to water*
+In plot 1, out of the 221 farmers, only 52 of the farmers are female. This shows a progressive increase of gender diversity in Agriculture. Only 29 of the total farmers are part of any society or cooperation. The larger population believes that farmers’ cooperative societies are a huge waste of time and very expensive as their needs or complains are not heard or changes made to them. We also found that a large population of the farmers do not have access to storage facilities, which expose their product to farm disease. While for the ones that own storage facilities, such facilities are not up
+
